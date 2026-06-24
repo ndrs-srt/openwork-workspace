@@ -1,0 +1,21 @@
+# Local OpenWork / machine-specific config
+config.json
+.opencode/openwork.json
+.opencode/node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary image thumbnails generated during Excel creation
+thumb_*.jpeg
+*.thumb.jpg
+
+# Local secrets / environment files
+.env
+.env.*
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
