@@ -1,0 +1,621 @@
+[0.00s -> 3.84s] And today is top is more exciting and interesting.
+[3.84s -> 8.64s] We also have some more people who paid it to start to automation,
+[8.64s -> 10.60s] which is very, very difficult to show.
+[12.60s -> 15.60s] Co-roam automated warehouse.
+[15.60s -> 21.04s] So we need the co-roam is totally different to send a warehouse
+[21.04s -> 23.88s] because every degree cost money.
+[23.88s -> 28.00s] And every second of the downtime cost the risk.
+[28.56s -> 34.00s] So today, we believe this panel discussion
+[34.00s -> 39.00s] will bring us a lot of the insights from the industry.
+[39.00s -> 44.80s] See how the automation can improve the operation efficiency.
+[44.80s -> 50.40s] Also reduce the risk of the co-roam co-roam operation.
+[50.40s -> 56.60s] So let's start from a very broad topic.
+[56.60s -> 61.40s] So the whole storage automation is getting more attention
+[61.40s -> 63.80s] in a CN region.
+[63.80s -> 69.60s] So may I know which types of facilities are you seeing
+[69.60s -> 74.60s] the strongest business case for automation in today?
+[74.60s -> 80.60s] I'd like to invite women, set up on to show you all the things.
+[80.60s -> 82.60s] OK, thank you.
+[82.60s -> 84.60s] Let me give you a track.
+[84.60s -> 87.60s] I introduced myself, my name is Setup Hall.
+[87.60s -> 92.60s] From Lachai, Australia, you can call it KMDN1 of the largest
+[92.60s -> 95.60s] and oldest host rate teams in Saigon.
+[95.60s -> 98.60s] And we use 100% automation right now.
+[98.60s -> 100.60s] Thanks for the creation.
+[100.60s -> 105.60s] And we all start in about a wish facility for co-strait.
+[105.60s -> 110.60s] I would like to share you one more important things there.
+[110.60s -> 115.60s] The automation, the best wish net case for automation,
+[115.60s -> 119.60s] is usually found in facility which treat
+[119.60s -> 122.60s] a condition.
+[122.60s -> 126.60s] One is higher stock storage.
+[126.60s -> 129.60s] Second is higher stock turnover.
+[129.60s -> 134.60s] The last one is limited land and limited operating space.
+[134.60s -> 138.60s] OK, under is three conditions, so I selected
+[138.60s -> 142.60s] there are three facilities that I advise.
+[142.60s -> 145.60s] First is public cost-away.
+[145.60s -> 146.60s] So why?
+[146.60s -> 151.60s] Especially those handling the large pallet volume,
+[151.60s -> 153.60s] multiple customer.
+[153.60s -> 156.60s] So in this type of operation,
+[156.60s -> 164.60s] so the automation can treat value, high-resized location control,
+[164.60s -> 169.60s] and can lower the level, dependency,
+[169.60s -> 175.60s] and increase stock accuracy and also improve
+[175.60s -> 178.60s] the utilization for space at the top.
+[178.60s -> 183.60s] Then the second facility I advise,
+[183.60s -> 186.60s] DC is distribution center.
+[186.60s -> 193.60s] For this type of facility, we request the speed, accuracy,
+[193.60s -> 196.60s] and reliable order fulfillment.
+[196.60s -> 200.60s] So automation can improve in-bound,
+[200.60s -> 206.60s] storage process, staging, picking, and this pass efficiency.
+[206.60s -> 212.60s] So it also reduces operation, reliable, evaluation,
+[212.60s -> 219.60s] operation, operation, operation, so to get through the last facility.
+[219.60s -> 223.60s] I said it is the food producer manufacturer.
+[223.60s -> 224.60s] So why?
+[224.60s -> 230.60s] Especially those one-to-one neck, the raw material,
+[230.60s -> 235.60s] through production line and handling with packing area,
+[235.60s -> 242.60s] and then go through the storage operation into one-continent as a growth.
+[242.60s -> 246.60s] So, with this automation can improve this.
+[246.60s -> 251.60s] It's not only used to operate in-cost, like the level cost.
+[251.60s -> 256.60s] Also can improve the production, efficiency.
+[256.60s -> 263.60s] Like food safety, and accuracy, the stock accuracy.
+[263.60s -> 267.60s] And you also increase the creating better with the 3D
+[267.60s -> 272.60s] before the raw material to the finished product.
+[272.60s -> 278.60s] So, it's very clear that the benefit for this 3D type of facility.
+[278.60s -> 283.60s] So, about in my opinion, for the immersive to this.
+[283.60s -> 290.60s] Automation should not be implemented just because it is trend.
+[290.60s -> 294.60s] The business case becomes strong.
+[294.60s -> 300.60s] The wind operation has well sufficient volume, and repetitive process.
+[301.60s -> 309.60s] And then you need to know this success with your ideal strategy.
+[309.60s -> 314.60s] So, I think this automation is not just the trend,
+[314.60s -> 322.60s] so we need to make sure this would make benefit for you and can be miserable.
+[322.60s -> 325.60s] Thank you, Mr. Paul.
+[326.60s -> 330.60s] One additional question for you and me,
+[330.60s -> 337.60s] you know, the end user they want to use the automation in home warehouse.
+[337.60s -> 344.60s] We just suggest they use like multi-user facility,
+[344.60s -> 353.60s] or they better have specific customized facility for their own demands.
+[354.60s -> 359.60s] As it's dependent, as I told you before, there's a condition.
+[359.60s -> 368.60s] If you have the large volume and large turnover, you can think about which type of the automation is suitable.
+[368.60s -> 375.60s] You should not use the hard approach to be automated first.
+[375.60s -> 379.60s] And can be made sure the value is not.
+[379.60s -> 383.60s] Because the automation is the value of the automation,
+[383.60s -> 392.60s] you need to connect all the beginning to the end, and this mode and load the period cost.
+[392.60s -> 398.60s] So, it can include the space, and you can utilize your space with every change.
+[398.60s -> 402.60s] So, it can be your business.
+[402.60s -> 406.60s] And how you can handle your customer.
+[406.60s -> 411.60s] So, if you want to increase your value,
+[411.60s -> 417.60s] if you want to utilize your space, you can think about which type of automation.
+[417.60s -> 422.60s] But anyway, the logic, the storage, the storage, and the VUMPest,
+[422.60s -> 425.60s] initially, properly, is up.
+[425.60s -> 429.60s] So, I think we need to decide the new process for all purpose and purpose.
+[429.60s -> 433.60s] Before you, integration, the automation, to this.
+[433.60s -> 435.60s] Thank you for your sharing.
+[435.60s -> 446.60s] When you can find any other ways to share your opinions as you are an expert from the operation of the life animals,
+[446.60s -> 450.60s] I believe you will be very different from your point of view.
+[450.60s -> 455.60s] Before I start, I would like to introduce myself a little bit.
+[455.60s -> 459.60s] I am a live being from A-Wi-Tun Company, a reader company,
+[459.60s -> 467.60s] who developed life animals and for me, I have managed the implementation of the life animals,
+[467.60s -> 475.60s] day or cheap, and I have to estimate to our Asia-Pacific region, including Australia and New Zealand, also China.
+[475.60s -> 479.60s] So, yeah, I completely agree with Kootu set of all,
+[479.60s -> 486.60s] but just would like to add one more perspective from my business, actually, that's great.
+[486.60s -> 497.60s] Our facilities, handling, high value, by all the poor, temperatures and city programs, all life animals,
+[497.60s -> 502.60s] I think is a strong, gas-paceless case for automation, now a day.
+[502.60s -> 511.60s] For automation, by all the typical products, it's not only for labor reducing in the White House,
+[511.60s -> 518.60s] for us we are focusing on the product quality and the operation consistency,
+[518.60s -> 523.60s] which is the main focus for our product, which is the high value product.
+[523.60s -> 540.60s] In my opinion, automation will help with the operation consistency a lot, which is so we can ensure that our product can be delivered to our customer with the best condition.
+[540.60s -> 547.60s] Which is all automation basis, which is for our business.
+[547.60s -> 550.60s] Thank you.
+[550.60s -> 560.60s] Dr. Utan, which minds to share your opinion from us, for our help, and to the consent of all and group,
+[560.60s -> 564.60s] by the community, maybe I introduce myself.
+[564.60s -> 570.60s] I am a member of a team from FBA company, and with regards to the digital rate perspective,
+[570.60s -> 578.60s] I can say that the GT is very easy to compete with the company, before it was like the people who have a cloud-ish landscape.
+[578.60s -> 583.60s] But still, we think I think it's a very easy distance, not very much to compete with.
+[583.60s -> 589.60s] A lot of recommendations, different tools, sometimes not practical terms, sometimes there are distorations,
+[589.60s -> 594.60s] sometimes there are still not, but they might do.
+[594.60s -> 601.60s] So what is the requirement like you? First we have to understand how you can have to be a product of product.
+[601.60s -> 611.60s] But you may order in which storage price you are, how many more you can have, how many companies you can have, and you can do the very effort of product.
+[611.60s -> 618.60s] And then, these by this, use a product of money to pay for a practical and then, you can go.
+[618.60s -> 627.60s] But just to think as consent of all, it's just that the start is a fundamental, the automation means that you have to have to be precise.
+[627.60s -> 632.60s] For example, in the same sense, what kind of sense are we used?
+[632.60s -> 635.60s] For example, on the other hand, we need everything, we need everything.
+[635.60s -> 637.60s] We need the validation of the case.
+[637.60s -> 641.60s] Since it's not, the capital is not clear for the purpose.
+[641.60s -> 648.60s] So, please, please, please, please, please, please, please, please.
+[648.60s -> 650.60s] Thank you.
+[650.60s -> 651.60s] Thank you.
+[651.60s -> 652.60s] Thank you.
+[652.60s -> 658.60s] And, on also, we do my tools for you to call, like, a service provider's perspective.
+[658.60s -> 662.60s] First, I introduce myself myself, myself, Manoj Chawan.
+[662.60s -> 665.60s] I am a, what, you know, meteximate panel in Thailand.
+[665.60s -> 668.60s] We are the pioneer in the Chinese panel.
+[668.60s -> 671.60s] So, we do the course knowledge for the installation panel.
+[671.60s -> 674.60s] So, in perspective, any course for it.
+[674.60s -> 677.60s] So, installation is the most, and about the automation.
+[677.60s -> 680.60s] Now, the energy is very important.
+[680.60s -> 685.60s] So, automation, it is the one thing way to reduce that energy.
+[685.60s -> 689.60s] And, I think the first priority for everyone.
+[689.60s -> 693.60s] I, I have got one thing that, uh, steed for agricultural products.
+[693.60s -> 698.60s] Teed, there is a list of events that like, what I call, one and all that.
+[698.60s -> 704.60s] So, I think, in future, there are, for example, since you, you might be, because there are a pair.
+[704.60s -> 707.60s] So, the share, play is very small.
+[707.60s -> 712.60s] So, automation, I think it may work, uh, and it may use for a long term.
+[712.60s -> 716.60s] Right in, in years, for agricultural products.
+[716.60s -> 720.60s] Like, okay, for island, as a quantity of the one who needs to be placed,
+[720.60s -> 724.60s] but in future it will be easy, but the countries like, uh, our China has.
+[724.60s -> 728.60s] It's already there, we are in so much, you know, agricultural products.
+[728.60s -> 735.60s] So, I think that one will be, uh, one, or, in between, come and automation may help or, that it will go.
+[735.60s -> 741.60s] The commodity market will be, also, you will get very good from this automation.
+[741.60s -> 744.60s] What I think that brings people, thank you.
+[744.60s -> 751.60s] Thank you. Thank you. So, I think the automation in culture, where house is not only of future,
+[751.60s -> 755.60s] but actually, the benefits are not to.
+[755.60s -> 761.60s] So, my second question is that, uh, operation is in low-tech pressure.
+[761.60s -> 766.60s] It's very, um, companies, and also a costly.
+[766.60s -> 775.60s] So, what, what are the, uh, biggest tax Nicole, or pressure, or operational, uh,
+[775.60s -> 781.60s] challenges we are facing, uh, in your daily operation.
+[781.60s -> 786.60s] So, uh, this question, I'd like to start from, uh, the, uh, the, the operational,
+[786.60s -> 792.60s] operational, why it's the, uh, what the normal way of house, there is no issue.
+[792.60s -> 799.60s] But, but, when the, uh, it's a policy storage, like, it's zero to three or minus 20 or minus 35.
+[799.60s -> 808.60s] Then, the challenges are, I mean, so, I think, uh, uh, first challenge is that, because of the temperature, uh,
+[808.60s -> 815.60s] the, uh, the issue of the automation, is that, uh, if suppose just, just, just, take the case as a sensors.
+[815.60s -> 820.60s] So, where's the temperature is minus 20? There are so many times that's all 3D in happen.
+[820.60s -> 824.60s] And then, uh, there's a operational failure that may happen.
+[824.60s -> 830.60s] So, there are three way of to see very properly when it started, there are wind automation.
+[830.60s -> 834.60s] So, that is the biggest challenge, yeah, also, for automation.
+[834.60s -> 838.60s] There are other ways that, uh, if you see in the first, there is a form.
+[838.60s -> 844.60s] So, when there is a form, there is a region, so the screens are, so, have sometimes, uh, issue.
+[844.60s -> 850.60s] So, that is also a big challenge when, when, when, when, when, when it comes up, operation of the automation in the course for it.
+[850.60s -> 856.60s] So, there are the solutions, there is not that there is a solution, but then, whenever you want to solve that problem, then,
+[856.60s -> 862.60s] then, cost getting this. And once cost getting this, then, again, things for more complex than the,
+[862.60s -> 868.60s] capital cost getting this. So, it's still in, uh, I think your easier, it's, the automation is getting,
+[868.60s -> 874.60s] what, just it's cost, 50, and so, I think, uh, you know, the price that we may be, the phone can add on,
+[874.60s -> 880.60s] more, you know, you actually are creating, you know, it's, for the first time, yeah, this.
+[880.60s -> 886.60s] Yes, it might pile up, you know, I saw many challenges when I joined this company.
+[886.60s -> 896.60s] So, I would like to add on, add more about these, um, I think, um, how to design the right operating
+[896.60s -> 904.60s] role is very important. How to find it, put away, for say, in Balthor, say, loading force,
+[904.60s -> 912.60s] 30, uh, staging area, operating role in the proper way. If, for say, it's not really an
+[912.60s -> 920.60s] increase, you structure, how can, uh, the automation still can make, as important, haven't
+[920.60s -> 926.60s] passed it. So, this increase. So, one more thing is, this side of operating force, creating,
+[926.60s -> 932.60s] increase, and single. So, and we need to maintain the connectivity, we smooth between,
+[932.60s -> 938.60s] the BNS and the BUSIS. The BMS is what, it is the warehouse management system, it's hard
+[938.60s -> 944.60s] operation, it's hard in the store, our store, it's a store, it's a store, the state,
+[944.60s -> 952.60s] the BUSIS, the priority of product. So, the BUSIS is what is controlled, the machine movement,
+[952.60s -> 962.60s] like a shuttle, like a train, like a AGV and lift. So, if the interface is not stable, if the, if the
+[962.60s -> 968.60s] time can die in packed operation or in the product quality, happen in service, customer service,
+[968.60s -> 974.60s] get product. So, how do you can get this, what you need to have the management team with the
+[974.60s -> 982.60s] readiness, spare part, I've vulnerability, schema, and anything, and you are starting to,
+[983.60s -> 990.60s] have to know and understand what they have to handle when the product is all correct. So,
+[990.60s -> 996.60s] I think this is the future, I don't understand the last one, I will share it with all transformers,
+[996.60s -> 1002.60s] to solve transformation, because I can understand, you need to repair with automation, it cannot
+[1002.60s -> 1012.60s] 100% will be replaced with the human form, the automation, the system needs to be installed,
+[1012.60s -> 1018.60s] it just changes the old people, the manual handling, to system control, the manual control,
+[1018.60s -> 1024.60s] the other bad decision. So, I think it's a very challenging, main thing that people and
+[1025.60s -> 1031.60s] chain form manual handling to control the source system, is the solution.
+[1031.60s -> 1038.60s] Just lift and one thing, as we do, they are the installation panel. So, all course there is a big problem
+[1038.60s -> 1047.60s] about the condensation and the ice formation, so, so, so, so, when automation is there, and if this condensation
+[1048.60s -> 1054.60s] or ice formation, because this is all electronics system control. So, so, so, big challenge
+[1054.60s -> 1062.60s] in terms of condensation and ice, and in terms of GMT also, it is not good, plus importantly that
+[1062.60s -> 1070.60s] these electronics are WMS, but in the very work chances are more. So, when they are building the cold stories,
+[1071.60s -> 1076.60s] this is the very important point for that to write up an installation, write up a true installation.
+[1076.60s -> 1083.60s] So, that the humidity and air leak should be based, so, there should not be an ice formation
+[1083.60s -> 1090.60s] or the condensation, because once more drop of water inside the cold stories, cold systems sometimes
+[1090.60s -> 1095.60s] get in the turbine, the turbo should take its very good, so, I think this is one more big
+[1095.60s -> 1100.60s] challenge for the cold story of the condensation and ice formation.
+[1100.60s -> 1110.60s] Just want to add to my perspective from our WMS, we again, for us, the biggest challenge is not about the cold
+[1110.60s -> 1120.60s] system or automation is not about the additional sensors or monitoring factors from the normal cold
+[1120.60s -> 1127.60s] energy, for us the life animal, we need more sensors and monitoring, so that's the energy
+[1127.60s -> 1138.60s] of humidity, ventilation, lighting, everything that cost the comfortability of the life animals.
+[1138.60s -> 1147.60s] So, as you all know, our industry is directly impacted to the food safety and the cold price
+[1147.60s -> 1156.60s] in each country, so if the AT2-match sensor and the monitor to the maximum sensor is directly impacted
+[1156.60s -> 1165.60s] the food price, but if we have two less or two limited sensors to monitor and we have a case of a
+[1165.60s -> 1174.60s] continuity or loss of the product is also impacted to the food price, or cost in the country, so it's about the
+[1174.60s -> 1181.60s] balance in that our big challenge is going to be an adverse safety from one criminal that
+[1181.60s -> 1188.60s] knows and can you say the whole comments, but that is a valid comment from our industry.
+[1188.60s -> 1197.60s] And so always part with you, we are chasing the efficiency and the advantage from the new technology
+[1197.60s -> 1200.60s] we can make while we need to control the costs.
+[1200.60s -> 1203.60s] Dr. Utanujwatu, add anything.
+[1204.60s -> 1209.60s] We can't completely and the regulatory perspective. There is an organization called WD to
+[1209.60s -> 1215.60s] work in the organization, we have a bio-vite, ICH, which is for an organized international conference
+[1215.60s -> 1221.60s] on the organization. So they have an epidemic case and for each category of the product, for example,
+[1221.60s -> 1226.60s] very talk about the automation, automation has many different types of opportunities.
+[1226.60s -> 1233.60s] For example, for example, farmer, cost-vegts, oncology products, so what can be the challenge?
+[1233.60s -> 1236.60s] What can be the risk of how to mitigate the risk?
+[1236.60s -> 1239.60s] We have been very, very, very, extremely, in the organization.
+[1239.60s -> 1242.60s] So what we need to read, but what's the idea of the workforce?
+[1242.60s -> 1249.60s] Because for example, the Pfizer, the Pfizer, they make a lot of operating conditions.
+[1279.60s -> 1283.60s] So, condition of the problem also is not good.
+[1283.60s -> 1289.60s] Whereas an example, secondly, on the clear perspective, what we see, the right first time,
+[1289.60s -> 1294.60s] or in the right first level, no problem. As soon as a doctor comes say, when we design,
+[1294.60s -> 1300.60s] for example, the design is correct. The design is like words, use an important specification to
+[1300.60s -> 1303.60s] very clear and we need to use the validation of goods.
+[1303.60s -> 1309.60s] Like the people, the time qualification, or the leader, the organization.
+[1309.60s -> 1315.60s] Institution, the institution, the institution, the organization, the team, the organization, the team, the organization,
+[1315.60s -> 1317.60s] the finally comes to performance very.
+[1317.60s -> 1322.60s] So, if we have all this data and the kind of measure of all the same, self-sensual, to be able to,
+[1322.60s -> 1324.60s] in order to secure the performance.
+[1324.60s -> 1326.60s] They will acknowledge the consumer.
+[1326.60s -> 1331.60s] So, very, tire-for example, a bit less, like, it's really fun.
+[1331.60s -> 1334.60s] We guess it's the high-rotography of course for it.
+[1334.60s -> 1336.60s] And they have a lot of automation.
+[1336.60s -> 1339.60s] And the individuals are you, but they also need to say,
+[1339.60s -> 1340.60s] the evaluation step in.
+[1340.60s -> 1343.60s] You can evaluate the human rights, the maximum.
+[1343.60s -> 1345.60s] Yeah, of course.
+[1345.60s -> 1348.60s] Thank you very much.
+[1348.60s -> 1350.60s] Next question is about the energy.
+[1350.60s -> 1358.60s] So, we are talking about the web calls, the infrastructure, and new technology,
+[1358.60s -> 1362.60s] the ESG is the topic we have to avoid.
+[1362.60s -> 1372.60s] So, I would like to ask you, what is the energy efficient investments?
+[1372.60s -> 1379.60s] I see when we deliver the automation to coach and storage.
+[1379.60s -> 1385.60s] Yeah, put my knowledge, and I will share your insights.
+[1386.60s -> 1389.60s] So, we are in now 226, I think from February, March,
+[1389.60s -> 1391.60s] everybody talking about the energy.
+[1391.60s -> 1397.60s] Except, of course, and I think everybody is talking about the main topic in energy.
+[1397.60s -> 1399.60s] So, how to save energy?
+[1399.60s -> 1406.60s] How to energy patient automation, in type the course tool, is the topic like everybody wants to discuss
+[1406.60s -> 1408.60s] and want to get a solution.
+[1408.60s -> 1411.60s] So, what the course tool is automation?
+[1412.60s -> 1418.60s] So, there is a main course in the definition course, because that is the part of the work course.
+[1418.60s -> 1426.60s] So, everything what we do automation is to reduce the course in terms of energy or in terms of the definition.
+[1426.60s -> 1434.60s] Now, the definition course, how it works, the definition work in that, whatever the what air or the is coming inside,
+[1434.60s -> 1440.60s] as we go out, that is the job of the existing passwords for the air condition.
+[1440.60s -> 1446.60s] So, the very important design is the course tool is the energy patient's first to very easy to enter.
+[1446.60s -> 1449.60s] Many people can talk about only the context for that.
+[1449.60s -> 1455.60s] Okay, you do the installation and as long as possible you will be in this course and then you start.
+[1455.60s -> 1458.60s] But once you turn the course tool, you cannot change.
+[1458.60s -> 1464.60s] Because once you do the MDR, what you are saying, you are doing the application of the main ability.
+[1464.60s -> 1468.60s] And after that you go and change and go, no, I will not use the type in solution.
+[1468.60s -> 1474.60s] Or the right type of installation method, then it is, you cannot change anything.
+[1474.60s -> 1478.60s] Then you have to be new with that and then the energy course goes by.
+[1478.60s -> 1486.60s] So, the definition course, the first important is that right type of installation or the course tool is because it is in solution.
+[1486.60s -> 1490.60s] As we are in the, that industry, I just do my first picture.
+[1490.60s -> 1495.60s] Installation, how it works, is that every installation material, how to, are on.
+[1495.60s -> 1500.60s] And which is linked with the cable, okay, this color, temperature, we will show.
+[1500.60s -> 1505.60s] So, how much heat can come inside from the installation?
+[1505.60s -> 1511.60s] So, now the, everything we talk about the cable, you just in the paper in the cat, how do you mention?
+[1511.60s -> 1517.60s] The cable, you know, 0.021 mtl, but nobody talked about the AG.
+[1517.60s -> 1521.60s] Every installation material has the AG.
+[1521.60s -> 1525.60s] That came and you never say for next thing.
+[1525.60s -> 1535.60s] So, this topic actually not money is nobody is, because everybody, the panel people don't, or the installation people don't discuss that.
+[1535.60s -> 1541.60s] Because that, that, that, that, and the owner side of the project side, they are not expertise.
+[1541.60s -> 1546.60s] So, what I'm saying is here in that, when you are, we're, we're talking about the installation material.
+[1546.60s -> 1553.60s] You have to choose the installation material, because you want the course that is for at least next 20 years or minimum 10 years.
+[1553.60s -> 1559.60s] So, the cable you should be saying, so that your refrigeration design, you ask for the same load.
+[1559.60s -> 1564.60s] If you are cable you increase, it means your refrigeration load increase.
+[1564.60s -> 1569.60s] So, if your refrigeration load increase, automatically, it means your cost is going to increase.
+[1569.60s -> 1575.60s] So, if many course storage, if you, I think it's about, I agree, that first year, two year, the cost is same.
+[1575.60s -> 1579.60s] But same course storage after 4, 5 year, the cost is more.
+[1579.60s -> 1584.60s] So, why it comes? Because, because your installation is not problem.
+[1584.60s -> 1588.60s] So, this is much, much, much, much important for the, how you can save the energy.
+[1588.60s -> 1595.60s] So, if you choose the right installation material, then I think you can use the, the long term for that.
+[1595.60s -> 1602.60s] Now, second part is that, automation is, yes, definite, it will be, energy vision.
+[1602.60s -> 1605.60s] But, automation, how many challenges we have to overcome that?
+[1605.60s -> 1609.60s] The fourth, any course will be, case part is that air log is to do.
+[1610.60s -> 1619.60s] Because, when you open the door, so all the hot air is coming inside and all that, your refrigeration has to work.
+[1619.60s -> 1626.60s] So, the proper design of the door and the air log, now the new thing that coming with high speed doors.
+[1626.60s -> 1637.60s] But, the proper installation is important, like, how the, like, there should be some, like, a, a, a, a, a, a company, they put the barriers for the, it will not get time.
+[1637.60s -> 1644.60s] There is very small solution, but, you know, long term, they need to, in terms of, uh, the energy cost.
+[1644.60s -> 1650.60s] So, that, how the door should be open and how the sensors and should be properly air log.
+[1650.60s -> 1653.60s] Every voltage has to be at, uh, air log area.
+[1653.60s -> 1657.60s] So, that, the, the, the refrigeration, you, not work continuously.
+[1657.60s -> 1666.60s] Then now, the new solutions are coming, like, the rear view rate, very, but, the principle is, so that, all the compressors should not be worked, like, continuously.
+[1666.60s -> 1674.60s] So, there are so many technical reasons are coming, like, it's, uh, so many people are investing and they are, you know, they seem so, that thing happens coming,
+[1674.60s -> 1686.60s] and, uh, another thing is that, uh, for the, when, when the whole story is operating, so, automation part is coming into play, but, uh,
+[1686.60s -> 1689.60s] we have to see that right type of automation part, right part of the door.
+[1689.60s -> 1695.60s] Now, things are coming, that is, uh, automation is, uh, becoming common.
+[1695.60s -> 1701.60s] So, they say, the same automation sometime for the different part, because whenever you want to say, so, as a,
+[1701.60s -> 1706.60s] the whole story is going up, they have to choose what's the two more feedbacks you're doing.
+[1706.60s -> 1713.60s] So, many things, energy basis, you can be, uh, energy saving can be, and, uh, in, uh, the whole story.
+[1713.60s -> 1715.60s] Thank you. Thank you.
+[1715.60s -> 1721.60s] Just would like to say that I could really recommend it.
+[1721.60s -> 1725.60s] It's about a strategy of our course storage at the beginning.
+[1725.60s -> 1730.60s] Not like what is a course storage. A valuable at this moment.
+[1730.60s -> 1736.60s] So just be like that. It's about your business strategy.
+[1736.60s -> 1741.60s] So I suppose that just one more additional comment.
+[1741.60s -> 1744.60s] Even if you have the right isolated door,
+[1744.60s -> 1748.60s] But our operation is not properly set up.
+[1748.60s -> 1755.60s] For example, completely perfect isolation door,
+[1755.60s -> 1759.60s] But our operators still all can be door.
+[1759.60s -> 1762.60s] So many times, so we cannot save any T.
+[1762.60s -> 1766.60s] I think this point is also a storage as well.
+[1766.60s -> 1770.60s] Adding for a good manner of quite a thing.
+[1770.60s -> 1774.60s] And also, when we consider the WHO database,
+[1774.60s -> 1777.60s] How we can optimize the energy cost.
+[1777.60s -> 1780.60s] So there are very scientific rational, very specific.
+[1780.60s -> 1782.60s] And scale value as well.
+[1782.60s -> 1785.60s] But discipline is also the discipline that's good.
+[1785.60s -> 1786.60s] Sometimes design is okay.
+[1786.60s -> 1788.60s] Those are professionals who pay.
+[1788.60s -> 1791.60s] They are all system is good. But people don't follow.
+[1791.60s -> 1794.60s] They also want to make some difference.
+[1794.60s -> 1796.60s] And everything has a shelf life.
+[1796.60s -> 1800.60s] Even the poor insulation or has shelf life.
+[1800.60s -> 1804.60s] Like we should even design something to what is in the design presentation.
+[1804.60s -> 1806.60s] If you have a K-land, you say for example,
+[1806.60s -> 1810.60s] But after one month, two month, how we are more into.
+[1810.60s -> 1812.60s] Because it is a effect.
+[1812.60s -> 1814.60s] So like in the engineering terms, we say,
+[1814.60s -> 1816.60s] Who the engineering practices, there is a term called,
+[1816.60s -> 1818.60s] Or what you can play conditions.
+[1818.60s -> 1822.60s] So for example, initially, they give you the stance of the education
+[1822.60s -> 1823.60s] This punch.
+[1823.60s -> 1824.60s] With the 90% capacity.
+[1824.60s -> 1828.60s] But after, you have to have the more growth, more entropy.
+[1828.60s -> 1829.60s] And they change.
+[1829.60s -> 1833.60s] So that also you have to calculate the profile and you have to monitor.
+[1833.60s -> 1835.60s] It will seem like you will unite.
+[1835.60s -> 1837.60s] When you buy a 9 or say, 121.
+[1837.60s -> 1839.60s] When this was 6 months, right?
+[1839.60s -> 1841.60s] Same, what will be what?
+[1841.60s -> 1842.60s] Of the 6 months, 90 minutes.
+[1842.60s -> 1844.60s] You will be able to handle number of hours.
+[1844.60s -> 1849.60s] But this is all into because it has a product and maybe loss of the loss.
+[1851.60s -> 1854.60s] Okay, um, omega and very, like maybe.
+[1854.60s -> 1858.60s] I know that after every patient is very important.
+[1858.60s -> 1862.60s] Like you need to have a, how to keep the core in the room.
+[1862.60s -> 1866.60s] How to use long duration, which I switched off.
+[1866.60s -> 1869.60s] So, this is very important to invest.
+[1869.60s -> 1871.60s] So, that is also.
+[1871.60s -> 1874.60s] But for my size, I would like to share one more thing.
+[1874.60s -> 1877.60s] This is a hot-to-one hot-to-trap.
+[1877.60s -> 1879.60s] The real term.
+[1879.60s -> 1882.60s] The day-to-day, it's a complete 9.
+[1882.60s -> 1886.60s] The optimization for the setting quite up to the average.
+[1886.60s -> 1888.60s] It's popular, not.
+[1888.60s -> 1891.60s] Some challenge to control your operation.
+[1891.60s -> 1893.60s] Not only life, but just equipment.
+[1893.60s -> 1896.60s] Okay, some challenge to set the pipe in the temperature is proper to suit with your, your usage.
+[1896.60s -> 1901.60s] Some challenge no means to set up to hold its defense, your strength.
+[1901.60s -> 1906.60s] So, the monitor, tracking, real time tracking is needed to be invested first.
+[1906.60s -> 1911.60s] To understand your mobile set is put in the right way or not.
+[1911.60s -> 1914.60s] So, I think that's the best way to do this.
+[1914.60s -> 1917.60s] So, I think that's the best way to do this.
+[1917.60s -> 1921.60s] But from user perspective, user prefer to pay additional money.
+[1921.60s -> 1926.60s] So, I think that's the best way to invest in the whole day-to-day course.
+[1926.60s -> 1929.60s] Thank you.
+[1929.60s -> 1930.60s] Thank you.
+[1930.60s -> 1939.60s] I believe the energy setting is a critical factor in cold or warehousing.
+[1939.60s -> 1946.60s] But from user perspective, user prefer to pay additional money.
+[1946.60s -> 1956.60s] When a cold chair warehouse comes with ESC qualification, no certificate.
+[1956.60s -> 1958.60s] I'm sure.
+[1958.60s -> 1962.60s] For our business, for sure, we are really looking.
+[1962.60s -> 1970.60s] Even much more higher cost, but it is quality for our business.
+[1970.60s -> 1975.60s] But if we can save that cost, it's better.
+[1976.60s -> 1978.60s] Okay, I'm on my side.
+[1978.60s -> 1981.60s] I'm on behalf of the post-Sorian public post-Sorian.
+[1981.60s -> 1983.60s] I have many different methods.
+[1983.60s -> 1984.60s] I have many certified.
+[1984.60s -> 1987.60s] I think I have no one to buy for the customer.
+[1987.60s -> 1995.60s] So, I think now, many companies that may industry, so increase the quality of the service.
+[1995.60s -> 1998.60s] So, I think it's needed to come on to be had.
+[1998.60s -> 2001.60s] No needs to be able to do a price.
+[2001.60s -> 2008.60s] I think all my side, 40 years old, right now, the price level and low, not the same price at the level.
+[2008.60s -> 2009.60s] So, why?
+[2009.60s -> 2012.60s] So, now, you can increase the level of quality.
+[2012.60s -> 2015.60s] So, high-watt, I have to give you a few compliments.
+[2015.60s -> 2017.60s] You have my customer.
+[2017.60s -> 2019.60s] I have to give you a few compliments.
+[2019.60s -> 2022.60s] Not a cost sensitive.
+[2022.60s -> 2024.60s] Thank you.
+[2024.60s -> 2027.60s] Let's move on to the next question.
+[2027.60s -> 2035.60s] So, IOT based and pressure and asset monitoring is now expanding.
+[2035.60s -> 2046.60s] So, putting in the mind, share something about IOT, how we can implement the IOT in all trends.
+[2046.60s -> 2048.60s] Logistics.
+[2048.60s -> 2051.60s] Thank you for the questions.
+[2051.60s -> 2055.60s] From my perspective, as I say before,
+[2055.60s -> 2059.60s] temperature is one factor.
+[2059.60s -> 2062.60s] Or biological products.
+[2062.60s -> 2065.60s] We are not monitoring in enrollment only.
+[2065.60s -> 2068.60s] We are protecting life.
+[2068.60s -> 2069.60s] Okay.
+[2069.60s -> 2075.60s] So, for me, IOT is not just about adding more and more sensor in your warehouse.
+[2075.60s -> 2082.60s] It's about understanding what factors are critical to your business and operations.
+[2082.60s -> 2088.60s] So, for example, in our facilities warehouse,
+[2088.60s -> 2093.60s] we monitor not only temperature.
+[2093.60s -> 2099.60s] We also monitor humidity, insulation or air flow.
+[2099.60s -> 2101.60s] We monitor lighting.
+[2101.60s -> 2105.60s] We monitor product handling.
+[2105.60s -> 2110.60s] And even we monitor the operating frequency.
+[2111.60s -> 2118.60s] For real time monitoring, I think is help us to have better visibility.
+[2118.60s -> 2125.60s] And also allow us to respond immediately when something goes wrong.
+[2125.60s -> 2135.60s] For my experience, the biggest issue,
+[2135.60s -> 2142.60s] is that the operating frequency is not only in your warehouse.
+[2142.60s -> 2147.60s] For example, the transition point between warehouse to transportation,
+[2147.60s -> 2151.60s] transportation to for me and for operations,
+[2151.60s -> 2155.60s] where the visibility is limited.
+[2155.60s -> 2159.60s] So, this IOT is helping.
+[2160.60s -> 2166.60s] For the final, for the final conclusion,
+[2166.60s -> 2177.60s] I think analyzing and monitoring in the sensors or IOT will help us with the better visibility.
+[2177.60s -> 2182.60s] And to understand what really happened with our issues.
+[2183.60s -> 2192.60s] And also, if you use it correctly, you can better improve your collaboration with operations.
+[2192.60s -> 2194.60s] That might open it.
+[2194.60s -> 2204.60s] Not only see what happened, but you need to use it to analyze our issue and improve.
+[2204.60s -> 2205.60s] Thank you.
+[2205.60s -> 2218.60s] So, probably the light and more logistics is one of the most heavily IOT events in the industry.
+[2218.60s -> 2224.60s] Yeah. Just give you some example for our transportation.
+[2224.60s -> 2229.60s] Just for one pallet, we have about 11 sensors.
+[2229.60s -> 2234.60s] And it's really expensive.
+[2234.60s -> 2241.60s] So, but how about the light and most Dr. Tung, which you might share something up?
+[2241.60s -> 2247.60s] Yeah. IOT from MTA perspective is good to have not mandatory, not statute.
+[2247.60s -> 2249.60s] If it don't have, it's okay.
+[2249.60s -> 2253.60s] Because MTA, if you use IOT, it means internet of days.
+[2253.60s -> 2255.60s] It means to be validator. Full validation.
+[2255.60s -> 2258.60s] Because there's no validation, no meaning.
+[2258.60s -> 2260.60s] Chances of error would be high.
+[2260.60s -> 2263.60s] And there's a guidance called 11 C.F.R. Partial.
+[2263.60s -> 2265.60s] We need to qualify.
+[2265.60s -> 2269.60s] The same spot example, temperature of KFC chicken in the V minus 10.
+[2269.60s -> 2274.60s] If you get an IOT sensor, but really this is a science and co-reaction media.
+[2274.60s -> 2276.60s] And there are other problems.
+[2276.60s -> 2279.60s] So, we have to follow them by the guidance and call a validation.
+[2279.60s -> 2284.60s] In the validation, in the data, in the data, it's not an internal thing solution.
+[2284.60s -> 2288.60s] So, I have to get globally, it's not mandatory.
+[2288.60s -> 2292.60s] Because if you use IOT, chances of internet are very high.
+[2292.60s -> 2294.60s] And you cannot see for mice.
+[2294.60s -> 2296.60s] So, if you have validation, go there.
+[2296.60s -> 2300.60s] If no, you just take a normal message.
+[2300.60s -> 2302.60s] I see. Thank you.
+[2302.60s -> 2303.60s] Uh, 274.
+[2303.60s -> 2311.60s] Or do you see any, uh, future opportunity for IOT in the total chat logistics?
+[2311.60s -> 2320.60s] You're sure. Now that we use IOT sensor in the active beginning to the end of the getting involved.
+[2320.60s -> 2326.60s] Customer needs to try to get the data, new priority, even security card need.
+[2326.60s -> 2333.60s] We should, the best force of IOT sensor, IOT sensor in the need to integrate slowly with the data and S.
+[2333.60s -> 2339.60s] And in the future, we use IOT implement the IOT AI.
+[2339.60s -> 2350.60s] So now that we try to use the same data that we've been used, combined with IOT and the first with IOT II AI.
+[2350.60s -> 2356.60s] And so in the future customer can see up each hand that you are stopped.
+[2356.60s -> 2364.60s] And your temperature, your stock status, your location, product locations by themselves.
+[2364.60s -> 2369.60s] And also can, can keep some analyzed with data.
+[2369.60s -> 2374.60s] So, can panic for all many day they can keep.
+[2374.60s -> 2377.60s] We day one two sales product right now.
+[2377.60s -> 2384.60s] So I think it's way, it presents in the future when we use IOT combined in the future with AI.
+[2384.60s -> 2387.60s] I think each of them will be able to do this.
+[2387.60s -> 2388.60s] Thank you.
+[2388.60s -> 2393.60s] And I don't know, just in the entire community that actually will give you a picture.
+[2393.60s -> 2400.60s] It will, it will, it will, it will be the base to, to the like, to the, like, the more existing stuff from, you know, that.
+[2400.60s -> 2405.60s] So, what I say, AI and how it does, but it should be worth the details.
+[2405.60s -> 2407.60s] But I would have to put them in that validation.
+[2407.60s -> 2410.60s] So there are other of this IOT, it should be calibrated.
+[2410.60s -> 2415.60s] If we have systems forward, proper, then I think this IOT can be used as a,
+[2415.60s -> 2423.60s] and we have even main base for this, now this one AI is coming in, what is used exactly into, I think it will be just a picture.
+[2423.60s -> 2425.60s] I see, thank you.
+[2425.60s -> 2428.60s] So, our last question is about the system integration.
+[2428.60s -> 2433.60s] We've been talking a lot about the hardware, the infrastructure.
+[2433.60s -> 2443.60s] So, but integration probably is one of the, also one of the most important sectors.
+[2443.60s -> 2447.60s] So, what do you think about the integration?
+[2447.60s -> 2456.60s] What, what, because there are the best practices to, you know, that hardware, software, and the few needs together.
+[2456.60s -> 2463.60s] Which is, you know, there's a guy in there called IASP, you know, from one of these, IASP,
+[2463.60s -> 2466.60s] why is it a chapter called, or T.0?
+[2466.60s -> 2472.60s] To that, describe how to integrate your mechanical, electrical, and then infrastructure.
+[2472.60s -> 2479.60s] So, people, these kind of, and so many, and for only the same, what do the system and main, but not, right?
+[2479.60s -> 2483.60s] IASP has a kind of scope, this for the engineering.
+[2483.60s -> 2489.60s] So, they say from the engineering perspective, from the QA, from the civil mechanical, mechanical, so they have a,
+[2489.60s -> 2494.60s] a mechanical template, how to integrate, and for all these products, each kind of, each kind of,
+[2494.60s -> 2501.60s] for example, it represents target form, of to capture, what to do, of injection, what to,
+[2501.60s -> 2504.60s] like, it was, what to do, what to do, what to do, what to do, what to have, like a,
+[2504.60s -> 2511.60s] like, so, better, I think you can follow that, IASP is ok, and they also calculate risk because nobody is perfect in the world.
+[2511.60s -> 2517.60s] And you know, do an integration, this cannot be 100 percent, only experience, people will know their experience.
+[2517.60s -> 2522.60s] For example, it's a, for example, you're very experienced at the conclusion, so whatever, you have knowledge, experience,
+[2522.60s -> 2529.60s] experience in this relationship, but may be implemented or not, we have to do a list assessment
+[2529.60s -> 2530.60s] also.
+[2530.60s -> 2532.60s] The list on the list assessment is the argument is the item list.
+[2532.60s -> 2536.60s] We can prepare it for a journey, for work time, a tourist motivation.
+[2536.60s -> 2541.60s] For example, now the list on integration is like getting home after too much of
+[2541.60s -> 2543.60s] a bit free, then two hours.
+[2543.60s -> 2546.60s] The exact end of approach, I speak safe.
+[2546.60s -> 2549.60s] Otherwise, integration cannot be bothered.
+[2549.60s -> 2553.60s] Just to be able to look nice, not to be able to do anything, but to be able to
+[2553.60s -> 2555.60s] have to be flexible also.
+[2555.60s -> 2559.60s] And quantitative way of converting the list, and then continuously implement that.
+[2559.60s -> 2561.60s] How we can mitigate all the transactions we use to this.
+[2561.60s -> 2564.60s] We can learn a bit about it.
+[2564.60s -> 2566.60s] Thank you, Dr. Bogtan.
+[2566.60s -> 2568.60s] I'm going to say the call.
+[2568.60s -> 2572.60s] I'm going to like to share your opinions regarding integration.
+[2572.60s -> 2573.60s] Okay.
+[2573.60s -> 2578.60s] So, I think he needs to offset the service journey you are seeing.
+[2578.60s -> 2585.60s] And simple, practical, simple way before you integrate all the more.
+[2585.60s -> 2590.60s] Because you need to combine with the people or say,
+[2590.60s -> 2596.60s] IoT, the bit made to the C.S. automation equipment in the one load.
+[2596.60s -> 2599.60s] We will be able to rely on the operations system.
+[2599.60s -> 2605.60s] So, however, you need to make sure the whole database in two ways.
+[2605.60s -> 2612.60s] You can see all the things inside the living and this with the lower interface.
+[2612.60s -> 2618.60s] And then I suggest that we need to have a quality action.
+[2618.60s -> 2626.60s] When you see the real-time software system, so you see which part of modern in YouTube takes it.
+[2626.60s -> 2631.60s] We need to make sure that the system gets to allow the alternative.
+[2631.60s -> 2636.60s] When we start to fix the model.
+[2636.60s -> 2648.60s] So, I think how to maintain and how to see the whole operation is very, very simple way and very masterful.
+[2648.60s -> 2649.60s] Okay.
+[2649.60s -> 2654.60s] I think I have a little to previous speakers.
+[2654.60s -> 2659.60s] In my opinion, it's just simple that for the integration.
+[2659.60s -> 2671.60s] It's not only the system integration, it's a whole chain integration, including system transportation, warehouses, and operator operation.
+[2671.60s -> 2678.60s] So, if you can connect the dot, I think the integration will be successfully integrated.
+[2678.60s -> 2681.60s] That's the key for me.
+[2681.60s -> 2682.60s] Thank you.
+[2682.60s -> 2685.60s] I have a lot of information.
+[2685.60s -> 2691.60s] For the first, I have a suggestion to have a verification checkpoint.
+[2691.60s -> 2700.60s] So, it's very important to set this checkpoint, because when you get the product, we need to verify the data.
+[2700.60s -> 2702.60s] The data is wrong or not.
+[2702.60s -> 2708.60s] When you input the item, the product input the item, you need to verify the confirmation.
+[2708.60s -> 2711.60s] The number the item is correct or not.
+[2711.60s -> 2717.60s] When you convert the staging, when you begin, in this fast, you need to have the state.
+[2717.60s -> 2723.60s] Or if you do it, where you find a quantum, so it's very important.
+[2723.60s -> 2728.60s] If sometimes you have a system, often change sometimes, you get wrong.
+[2728.60s -> 2732.60s] Data, sometimes you have a few met earlier, inside the process, how to play with it.
+[2732.60s -> 2738.60s] So, I think every state has a good application for the state, for the state.
+[2738.60s -> 2742.60s] I think you can implement this easy point for now.
+[2742.60s -> 2744.60s] Yes, from the financial direction.
+[2744.60s -> 2750.60s] Integration is actually not all in the state, much in the manufacturing industry, it's coming much.
+[2750.60s -> 2758.60s] At the end, it's a system, because all the data, because the individual communication is very important.
+[2758.60s -> 2762.60s] If there is a combination, then there is a way of how.
+[2762.60s -> 2764.60s] So, there is a combination is very important.
+[2764.60s -> 2768.60s] So, that we are a presence in the conducting the dots.
+[2768.60s -> 2772.60s] So, there is a participation, the integration is a much.
+[2772.60s -> 2779.60s] So, if the integration is there, anything is the red flag, it will be in real time, we can see the real flag.
+[2779.60s -> 2783.60s] Then we can investigate and get the correct reaction as soon as possible.
+[2783.60s -> 2786.60s] Rather than manual communication.
+[2786.60s -> 2794.60s] I think that integration is much for any analysis of this call, called, there is a percentage.
+[2794.60s -> 2802.60s] Who will do things should be responsible for the integration of who take me?
+[2802.60s -> 2806.60s] Is it a warehouse provider or the user?
+[2806.60s -> 2810.60s] It does happen.
+[2810.60s -> 2813.60s] Like in Firmar, we say, the user.
+[2813.60s -> 2817.60s] Because we keep the user, we want to make specification to that supply.
+[2817.60s -> 2822.60s] And we have the user, we have to really go somewhere, we have to go there, we have to go there.
+[2822.60s -> 2823.60s] And we have to go there.
+[2823.60s -> 2825.60s] When it goes from no excuse.
+[2825.60s -> 2831.60s] So, it's our responsibility, our accountability to be very serious.
+[2831.60s -> 2838.60s] Whatever specification we keep to supply for example, instead of 20 goes wrong, we have to be a couple.
+[2838.60s -> 2842.60s] So, we must use it also.
+[2842.60s -> 2844.60s] I'm not the same team.
+[2844.60s -> 2848.60s] Because the way we're going to have been sure everything will be good.
+[2848.60s -> 2852.60s] Thank you.
+[2852.60s -> 2858.60s] Yeah, I think we covered a lot in this topic.
+[2858.60s -> 2867.60s] And yeah, obviously, the automation in Co-Chent warehouse can't bring us a lot of families.
+[2867.60s -> 2875.60s] And it is like energy saving, like the cost saving, better management of the memory,
+[2875.60s -> 2879.60s] or of disability.
+[2879.60s -> 2891.60s] However, there is still a long way to go from the first phase that design phase to the final institution.
+[2891.60s -> 2899.60s] I also believe that this is the Chent in the warehouse in the industry.
+[2899.60s -> 2907.60s] So, thank you very much, everyone, to bring us a food for discussions today.
+[2907.60s -> 2910.60s] And a safe hour.
+[2910.60s -> 2912.60s] Audience, just we still have some time.
+[2912.60s -> 2918.60s] Any audience you'd like to ask any questions with the panelists?
+[2918.60s -> 2922.60s] Or, so we have a committee's left.
+[2922.60s -> 2928.60s] Anyone have a patient, a conversation here, and we're starting to bring them into a school.
+[2928.60s -> 2930.60s] Any questions?
+[2930.60s -> 2932.60s] No?
+[2932.60s -> 2934.60s] We're a presentation.
+[2934.60s -> 2936.60s] No question on four.
+[2936.60s -> 2940.60s] I think we can get a cover of any of these.
+[2940.60s -> 2945.60s] So, see the information from our panelists.
+[2945.60s -> 2949.60s] Besides, we bring two audience.
+[2949.60s -> 2959.60s] For me, as I said, when we want to apply the automation,
+[2959.60s -> 2965.60s] not just focus on the machine, the machine is not the machine, but the machine.
+[2965.60s -> 2976.60s] It's the application to connect the people and the person that you think may be in the business in the end.
+[2976.60s -> 2982.60s] And also, maintain the capability in two, one, lay a bow, go to the process.
+[2982.60s -> 2984.60s] That is the point.
+[2984.60s -> 2989.60s] So, we need to see the use of automation.
+[2989.60s -> 2994.60s] But we need to see the use of the process need to be applied to the automation.
+[2994.60s -> 2996.60s] And how we can measure the value.
+[2996.60s -> 3001.60s] So, I think it's the question to ask yourself if all the people may be in this.
+[3001.60s -> 3003.60s] Thank you.
+[3003.60s -> 3012.60s] I would like to use the face of a consent form that is not about a trading for implementation of automation.
+[3012.60s -> 3019.60s] It's about you need to ask yourself what is a very important to your business.
+[3019.60s -> 3024.60s] And then looking for the automation machine, it's like that.
+[3024.60s -> 3034.60s] So, lastly, it's just a free tool to add our contact or my contact really need or any channel that you can apply my name.
+[3034.60s -> 3041.60s] And if you have any creation, later on, just press up and help you to answer it, especially for the animals.
+[3041.60s -> 3042.60s] I will.
+[3043.60s -> 3047.60s] Thank you everyone.
+[3047.60s -> 3050.60s] Thank you very much to this.
+[3050.60s -> 3052.60s] Thank you.
+[3052.60s -> 3053.60s] Thank you.
+[3053.60s -> 3056.60s] So, I think that's all for today.
+[3056.60s -> 3058.60s] This session.
+[3058.60s -> 3059.60s] Thank you.
+[3059.60s -> 3060.60s] All right.
+[3060.60s -> 3061.60s] Thank you very much.
+[3061.60s -> 3062.60s] Thank you.
+[3062.60s -> 3063.60s] Thank you.
+[3063.60s -> 3064.60s] Thank you.
+[3064.60s -> 3065.60s] Thank you.
+[3065.60s -> 3066.60s] All right.
+[3066.60s -> 3068.60s] I'm going to be able to support your opinion on this.
+[3068.60s -> 3070.60s] We have a dedicated day for you.
+[3070.60s -> 3072.60s] Thank you.

@@ -1,0 +1,1217 @@
+[0.00s -> 11.00s] And today this topic is more exciting and interesting. We also add some more complicated stuff to automation, which is temperature control,
+[11.00s -> 24.00s] cold room, automated warehouse. So I believe the cold room is totally different to sender warehouse because every degree costs money
+[24.00s -> 37.00s] and every second of the downtime costs the risk. So today I believe this panel discussion will bring us a lot of the insights
+[37.00s -> 50.00s] from the industry, see how the automation can improve the operation efficiency and also reduce the risk of the cold room, cold chamber operation.
+[50.00s -> 63.00s] So let's start from a very broad topic. Cold storage automation is gaining more attention in ASEAN region.
+[63.00s -> 74.00s] So may I know which types of facilities are you seeing the strongest business case for automation in today?
+[74.00s -> 81.00s] Yeah, I'd like to invite Kun Seterpong to share your opinions.
+[81.00s -> 88.00s] Okay, thank you. Let me give you a short presentation. I'll introduce myself. My name is Seterpong.
+[88.00s -> 99.00s] From Lachai cold storage, you can call it, claim that one of the largest and oldest cold storage in Musakon and we use 100% automation right now.
+[99.00s -> 106.00s] Thanks for the creation and before starting about which facility for cold storage is the best.
+[106.00s -> 123.00s] I would like to share you one more important thing that the automation, the best business case for automation is usually found in facility with three key conditions.
+[123.00s -> 135.00s] One is higher stock storage. Second is high stock turnover. The last one is limited land and limited operating space.
+[135.00s -> 142.00s] Okay, under these three conditions, so I subject there are three facilities that I advise.
+[142.00s -> 153.00s] Third is public cold storage. So why? Especially those handling the large pallet volume, multiple customer.
+[153.00s -> 169.00s] So in this type of operation, so the automation can create value, high precise location control and can lower the label dependency
+[169.00s -> 179.00s] and increase stock accuracy and also improve the utilization for the space that I talked to before.
+[179.00s -> 196.00s] Then the second facility I advise DC is distribution center. For this type of facility, we request speed, accuracy and variable order fulfillment.
+[196.00s -> 207.00s] So automation can improve inbound storage process, staging, picking and this past efficiency.
+[207.00s -> 215.00s] So it also reducing operation reliable, evaluation operation.
+[215.00s -> 223.00s] So we get through the last facility I said is the food producer manufacturer.
+[223.00s -> 242.00s] So why? Especially those want to connect the raw material through production line and handling with packing area and then go to the storage operation into one continuous row.
+[242.00s -> 251.00s] So with this automation can improve this. It's not only reduced result operating cost like the label cost.
+[251.00s -> 263.00s] It also can improve the production efficiency like food safety and accuracy, the stock accuracy.
+[263.00s -> 275.00s] And you also increase the trading better with the facility before form the raw material to the finished product to your inventory.
+[275.00s -> 279.00s] So it's very good benefit for this three type of facility.
+[279.00s -> 291.00s] So about in my opinion for key message to this automation should not be implement just because it is trained.
+[291.00s -> 302.00s] The business case becomes strong when operation has sufficient volume and repeatable process.
+[302.00s -> 310.00s] And then you need to know its success with your strategy.
+[310.00s -> 315.00s] So I think this automation is not just a trend.
+[315.00s -> 322.00s] So we need to make sure it's good make benefit for you and can be miserable.
+[322.00s -> 326.00s] Thank you, Mr. Paul.
+[326.00s -> 329.00s] One additional question for you.
+[329.00s -> 337.00s] May I know if the end user they want to use the automation in home warehouse.
+[337.00s -> 355.00s] Would you suggest they use like multi-user facility or they better have a specific customized facility for their own demand.
+[355.00s -> 368.00s] As I told you before, there's a condition. If you have the large volume and large turnover, you can think about which type of automation is suitable for you.
+[368.00s -> 379.00s] You must ask yourself which type of process should be automated first and can be made sure the value or not.
+[379.00s -> 393.00s] Because the automation is the value of the automation need to connect from the beginning to the end and reduce the period cost.
+[393.00s -> 399.00s] So it can increase the speed and you can utilize your speed with every change.
+[399.00s -> 406.00s] So it depends on your business and how you can handle your customer.
+[406.00s -> 417.00s] So if you want to increase your value, if you want to utilize your speed, you can think about which type of automation.
+[417.00s -> 425.00s] But anyway, the logic, the storage logic and WMS need to be properly designed.
+[425.00s -> 434.00s] So I think we need to decide your process for whole process first before you integrate the automation through this.
+[434.00s -> 436.00s] Thank you for your sharing.
+[436.00s -> 447.00s] Can you share your opinions as you are an expert from the operation of the live animals?
+[447.00s -> 451.00s] I believe it will be very different from your point of view.
+[451.00s -> 455.00s] Before I start, I would like to introduce myself a little bit.
+[455.00s -> 463.00s] I am Blyping from a written company, a reader company who developed live animals.
+[463.00s -> 476.00s] And for me, I managed the importation of the live animals, their logistics and hatching eggs to our Asia Pacific region including Australia and New Zealand and also China.
+[476.00s -> 487.00s] So yeah, I completely agree with Khun said to pull, but just would like to add one more perspective from my business and industry.
+[487.00s -> 505.00s] Facilities, handling high value by all of the whole temperature sensitive products for live animals, I think is the strongest business case for automation nowadays.
+[505.00s -> 512.00s] For automation, biological products is not only for labor reducing in the warehouse.
+[512.00s -> 523.00s] For us, we are focusing on the product quality and the operation consistency, which is the main focus for our product, which is a high value product.
+[523.00s -> 530.00s] In my opinion, automation will help with the operation consistency a lot,
+[531.00s -> 547.00s] which is so we can ensure that our product can be delivered to our customer with the best condition, which I think is the automation business case for my business.
+[549.00s -> 550.00s] Thank you.
+[551.00s -> 558.00s] Dr. Utan, would you mind to share your opinion from pharmaceutical angle?
+[558.00s -> 559.00s] Yes, sure.
+[559.00s -> 562.00s] I think Khun said to pull and pull piping has already covered many things.
+[562.00s -> 564.00s] Maybe I introduce myself.
+[564.00s -> 567.00s] I'm a member of V-Form FDA in Germany.
+[567.00s -> 575.00s] And with regards to the regulatory perspective, I can say like the GDP is very recently implemented in Thailand.
+[575.00s -> 578.00s] Before it was like it was good to have, but now it is in my store.
+[578.00s -> 583.00s] But still, we have been trying to integrate each industry, not very much people.
+[583.00s -> 594.00s] A lot of recommendations, different thoughts, sometimes not practical, sometimes it's automation, sometimes it's a semi-automation, sometimes like you know, it's still not perfect.
+[594.00s -> 597.00s] So what is the requirement like you know?
+[597.00s -> 600.00s] First, we have to understand how we have to deal with it.
+[600.00s -> 605.00s] We have to prepare a protocol for every product, every storage condition, lots and lots.
+[605.00s -> 609.00s] How we monitor, how we control when you can have a kind of validation.
+[609.00s -> 611.00s] We need to prepare a protocol.
+[611.00s -> 618.00s] And then, case by case, if the protocol is okay, practical, and then we can go on.
+[618.00s -> 623.00s] But just like Khun said to pull, it just has to start with automation.
+[623.00s -> 628.00s] Automation means like lot of analytics, it has to be precise.
+[628.00s -> 632.00s] For example, what kind of sensor we use.
+[632.00s -> 635.00s] For example, oncology product, we need everything we can do.
+[635.00s -> 641.00s] But if the animation is not okay, sensors are not cut and we're not quick for the process to come.
+[641.00s -> 644.00s] So, case by case, we have to prepare a protocol.
+[644.00s -> 647.00s] But I think it's possible to do that.
+[647.00s -> 650.00s] Thank you.
+[650.00s -> 651.00s] Thank you.
+[651.00s -> 652.00s] Thank you.
+[652.00s -> 658.00s] And Khun Manoj, would you mind to share your view from like a service providers perspective?
+[658.00s -> 662.00s] Okay, first I introduce myself, Manoj Chauhan.
+[662.00s -> 666.00s] I am working with Metecmo Panagic Island.
+[666.00s -> 669.00s] We are the pioneers in the sandwich pattern.
+[669.00s -> 672.00s] So, we do the post knowledge for the insulation pattern.
+[672.00s -> 675.00s] So, in perspective, any post knowledge.
+[675.00s -> 678.00s] So, insulation is the must and a lot of automation.
+[678.00s -> 681.00s] See, nowadays the energy is very important.
+[681.00s -> 686.00s] So, automation, it is the only way to reduce that energy.
+[686.00s -> 690.00s] That is going to be the first priority for everyone.
+[690.00s -> 695.00s] I have to add to one thing that for agriculture products,
+[695.00s -> 700.00s] there is less automation like potato, onion and all that.
+[700.00s -> 704.00s] So, I think in future, because it's a very sensitive market
+[704.00s -> 708.00s] because it's a shelf life is very small.
+[708.00s -> 713.00s] So, automation I think it may work and it may use for a long term.
+[713.00s -> 717.00s] So, I think in few years for agriculture products,
+[717.00s -> 721.00s] like for highlander as a quantity of the volume is be placed,
+[721.00s -> 723.00s] but in future it's going to be huge.
+[723.00s -> 725.00s] But the countries like India or China,
+[725.00s -> 729.00s] it's already they are doing so much in the agriculture sector also.
+[729.00s -> 733.00s] So, I think that one will be one more thing
+[733.00s -> 736.00s] which will become when automation may help or that.
+[736.00s -> 739.00s] So, the commodity market will be also,
+[739.00s -> 742.00s] will be get benefit from this automation.
+[743.00s -> 745.00s] Thank you.
+[745.00s -> 746.00s] Thank you.
+[746.00s -> 750.00s] So, I think the automation in coal chain warehouse
+[750.00s -> 752.00s] is not only the future,
+[752.00s -> 756.00s] but actually it benefits for now too.
+[756.00s -> 762.00s] So, my second question is that operations in low temperature
+[762.00s -> 767.00s] is very complex and also costly.
+[767.00s -> 778.00s] So, what are the biggest technical or operational challenges
+[778.00s -> 782.00s] we are facing in your daily operation?
+[782.00s -> 786.00s] So, this question I would like to start from.
+[788.00s -> 793.00s] Operational, for the normal warehouse, there is no issue.
+[793.00s -> 796.00s] But when the, it is a coal storage,
+[796.00s -> 800.00s] like if you get 0 degree or minus 20 or minus 35,
+[800.00s -> 803.00s] then the challenges are mainly.
+[803.00s -> 806.00s] So, I think the first challenge is that
+[806.00s -> 808.00s] because of the temperature,
+[808.00s -> 812.00s] the issue of the automation is that
+[812.00s -> 816.00s] if suppose just say take the case as a sensors.
+[816.00s -> 818.00s] So, when the temperature is minus 20,
+[818.00s -> 821.00s] there are so many times that coal trading happen
+[821.00s -> 825.00s] and then there is a operational failure may happen.
+[825.00s -> 828.00s] So, there are things we have to see very properly
+[828.00s -> 831.00s] when it started with the automation.
+[831.00s -> 835.00s] So, that is the biggest challenge there for the automation.
+[835.00s -> 838.00s] Then another is that if you see in the coal storage,
+[838.00s -> 840.00s] there is a fog.
+[840.00s -> 842.00s] So, when there is a fog, there is a visibility.
+[842.00s -> 845.00s] So, the screens also have sometimes a issue.
+[845.00s -> 847.00s] So, that is also a big challenge
+[847.00s -> 850.00s] when in terms of operation of the automation in the coal storage.
+[850.00s -> 852.00s] So, there are the solutions.
+[852.00s -> 854.00s] There is not that there is no solution.
+[854.00s -> 856.00s] But then whenever you want to solve that problem,
+[856.00s -> 858.00s] then cost gets increased.
+[858.00s -> 860.00s] And once cost gets increased,
+[860.00s -> 862.00s] then again things goes more complex
+[862.00s -> 864.00s] and the capital cost increases.
+[864.00s -> 866.00s] So, it is still in the,
+[866.00s -> 869.00s] I think every year it is automation is getting new versions.
+[869.00s -> 871.00s] It is cost effective.
+[871.00s -> 874.00s] And so, I think these are the first challenges
+[874.00s -> 876.00s] that the coal can add on this more.
+[876.00s -> 879.00s] Because it is actually operating everyday.
+[879.00s -> 881.00s] Thank you.
+[881.00s -> 883.00s] Yes, in my part of you,
+[883.00s -> 885.00s] I saw many challenges
+[885.00s -> 888.00s] when I joined this company.
+[888.00s -> 891.00s] So, I would like to add more
+[891.00s -> 893.00s] about this.
+[893.00s -> 896.00s] I think how to design
+[896.00s -> 899.00s] the right operating flow is very important.
+[899.00s -> 901.00s] How to connect
+[901.00s -> 903.00s] the put away process,
+[903.00s -> 905.00s] in-bound process, loading process,
+[905.00s -> 908.00s] staging area, operating flow.
+[908.00s -> 910.00s] In the put away.
+[910.00s -> 913.00s] If the process is not read and clear,
+[913.00s -> 917.00s] the structure, how the automation
+[917.00s -> 921.00s] still can make its problem happen faster.
+[921.00s -> 923.00s] So, it is clear.
+[923.00s -> 925.00s] So, one more thing is decided operating
+[925.00s -> 928.00s] for it is read and clear and simple.
+[928.00s -> 931.00s] So, and we need to maintain the connectivity
+[931.00s -> 935.00s] between WMS and WCS.
+[935.00s -> 937.00s] WMS is what?
+[937.00s -> 939.00s] It is the warehouse management system.
+[939.00s -> 941.00s] It is hard of operation.
+[941.00s -> 943.00s] If checked in the storage data,
+[943.00s -> 945.00s] stock data,
+[945.00s -> 947.00s] you can see the quality of the product.
+[947.00s -> 951.00s] So, WCS is what is controlled
+[951.00s -> 953.00s] the machine movement.
+[953.00s -> 955.00s] Like a shuttle, like a crane,
+[955.00s -> 957.00s] like an AGV and lift.
+[957.00s -> 960.00s] So, if the interface is not stable,
+[960.00s -> 963.00s] if the downtime can
+[963.00s -> 965.00s] directly impact operation
+[965.00s -> 967.00s] and the product quality
+[967.00s -> 969.00s] happens in service, customer service
+[969.00s -> 971.00s] gets problem.
+[971.00s -> 973.00s] So, how you can get is what?
+[973.00s -> 975.00s] You need to have the maintenance team
+[975.00s -> 977.00s] with the readiness, spare parts
+[977.00s -> 980.00s] availability, skill maintenance team
+[980.00s -> 983.00s] and your staff needs to
+[983.00s -> 985.00s] have to know and understand
+[985.00s -> 988.00s] what they have to handle
+[988.00s -> 990.00s] when the problem occurs.
+[990.00s -> 993.00s] So, I think this is the challenge.
+[993.00s -> 995.00s] And the last one I will share is
+[995.00s -> 997.00s] people transforming.
+[997.00s -> 999.00s] So, transformation.
+[999.00s -> 1001.00s] Because you can understand
+[1001.00s -> 1003.00s] when you repair with automation,
+[1003.00s -> 1005.00s] it cannot 100%
+[1005.00s -> 1007.00s] repair the human
+[1007.00s -> 1009.00s] from the operation
+[1009.00s -> 1011.00s] still needs the human.
+[1011.00s -> 1013.00s] So, instead,
+[1013.00s -> 1015.00s] it just changes the rule of people
+[1015.00s -> 1017.00s] from manual handling
+[1017.00s -> 1019.00s] to system control
+[1019.00s -> 1021.00s] problem solving,
+[1021.00s -> 1023.00s] transformation.
+[1023.00s -> 1025.00s] So, I think it's very challenging
+[1025.00s -> 1027.00s] to maintain the people
+[1027.00s -> 1029.00s] and chain form manual handling
+[1029.00s -> 1031.00s] to control the system.
+[1031.00s -> 1033.00s] That's the challenge.
+[1033.00s -> 1035.00s] Just let me add one thing.
+[1035.00s -> 1037.00s] We are the installation panel.
+[1037.00s -> 1039.00s] So, there is a big problem
+[1039.00s -> 1041.00s] about the condensation
+[1041.00s -> 1043.00s] and the ice formation.
+[1043.00s -> 1045.00s] So, when automation is there
+[1045.00s -> 1047.00s] and if this condensation
+[1047.00s -> 1049.00s] or ice formation comes
+[1049.00s -> 1051.00s] because this is all electronic system control.
+[1051.00s -> 1053.00s] So, it's a big, big challenge
+[1053.00s -> 1055.00s] in terms of condensation
+[1055.00s -> 1057.00s] and ice and in terms of GMP
+[1057.00s -> 1059.00s] also it is not
+[1059.00s -> 1061.00s] good.
+[1061.00s -> 1063.00s] Plus, important is that
+[1063.00s -> 1065.00s] these electronics or WMS
+[1065.00s -> 1067.00s] whatever you see, the failure chances are more.
+[1067.00s -> 1069.00s] So, when they are building
+[1069.00s -> 1071.00s] the cold storage,
+[1071.00s -> 1073.00s] this is the very important point
+[1073.00s -> 1075.00s] for that to the right type of installation,
+[1075.00s -> 1077.00s] right type of installation
+[1077.00s -> 1079.00s] so that the humidity
+[1079.00s -> 1081.00s] and the air leak should be
+[1081.00s -> 1083.00s] yes. So, there should not be
+[1083.00s -> 1085.00s] ice formation or the condensation
+[1085.00s -> 1087.00s] because as one small drop
+[1087.00s -> 1089.00s] of water inside the cold storage
+[1089.00s -> 1091.00s] cold systems sometimes get
+[1091.00s -> 1093.00s] in the trouble and trouble shooting
+[1093.00s -> 1095.00s] is very difficult. So, I think this is
+[1095.00s -> 1097.00s] one more big challenge for the cold storage
+[1097.00s -> 1099.00s] automation, the condensation
+[1099.00s -> 1101.00s] and ice formation.
+[1101.00s -> 1103.00s] Just want to add
+[1103.00s -> 1105.00s] my perspective from
+[1105.00s -> 1107.00s] our industry again.
+[1107.00s -> 1109.00s] For us, the biggest challenge
+[1109.00s -> 1111.00s] is not about the process
+[1111.00s -> 1113.00s] itself or automation itself
+[1113.00s -> 1115.00s] it's about
+[1115.00s -> 1117.00s] additional sensors or monitoring
+[1117.00s -> 1119.00s] factors
+[1119.00s -> 1121.00s] from the normal cold storage.
+[1121.00s -> 1123.00s] For us, the life animal
+[1123.00s -> 1125.00s] we need more
+[1125.00s -> 1127.00s] sensors and monitoring such as
+[1127.00s -> 1129.00s] humidity,
+[1129.00s -> 1131.00s] ventilation,
+[1131.00s -> 1133.00s] lighting, everything
+[1133.00s -> 1135.00s] that cause the
+[1135.00s -> 1137.00s] the compatibility of
+[1137.00s -> 1139.00s] the life animals.
+[1139.00s -> 1141.00s] So, as you all know
+[1141.00s -> 1143.00s] our industry is
+[1143.00s -> 1145.00s] directly impacted to
+[1145.00s -> 1147.00s] the food safety
+[1147.00s -> 1149.00s] and food price in each country
+[1149.00s -> 1151.00s] so if we
+[1151.00s -> 1153.00s] add too much sensor
+[1153.00s -> 1155.00s] and we monitor too much sensor
+[1155.00s -> 1157.00s] it's directly impact to the food price
+[1157.00s -> 1159.00s] but if we
+[1159.00s -> 1161.00s] have too less
+[1161.00s -> 1163.00s] to limited sensors to monitor
+[1163.00s -> 1165.00s] and we have a
+[1165.00s -> 1167.00s] case of a mortality
+[1167.00s -> 1169.00s] or loss of the product
+[1169.00s -> 1171.00s] it's also impacted to the food
+[1171.00s -> 1173.00s] price or cost in the country
+[1173.00s -> 1175.00s] so it's about the balancing
+[1175.00s -> 1177.00s] that
+[1177.00s -> 1179.00s] our biggest challenge is
+[1179.00s -> 1181.00s] will be another perspective from
+[1181.00s -> 1183.00s] what could my note and could say to home comments
+[1183.00s -> 1185.00s] but I think it's
+[1185.00s -> 1187.00s] a valid comment from our industry.
+[1187.00s -> 1189.00s] You understand, it's always
+[1189.00s -> 1191.00s] hard when
+[1191.00s -> 1193.00s] we are
+[1193.00s -> 1195.00s] chasing the efficiency
+[1195.00s -> 1197.00s] and advantages from the new technology
+[1197.00s -> 1199.00s] meanwhile we need to control the cost.
+[1201.00s -> 1203.00s] Dr. Utang, would you like to add anything?
+[1205.00s -> 1207.00s] From Kiwi and the regulatory perspective
+[1207.00s -> 1209.00s] there is an organization called W
+[1209.00s -> 1211.00s] it's a world-hand organization
+[1211.00s -> 1213.00s] they have a deal with the ICM
+[1213.00s -> 1215.00s] which is called
+[1215.00s -> 1217.00s] customer collaboration
+[1217.00s -> 1219.00s] they have prepared a case
+[1219.00s -> 1221.00s] for each category of the product
+[1221.00s -> 1223.00s] for example when you talk about the automation
+[1223.00s -> 1225.00s] automation has many tools
+[1225.00s -> 1227.00s] for example in the end of the day
+[1227.00s -> 1229.00s] based on the product for example food
+[1229.00s -> 1231.00s] for example pama, cosmetics
+[1231.00s -> 1233.00s] oncology products
+[1233.00s -> 1235.00s] so what can be the challenge
+[1235.00s -> 1237.00s] what can be the risk
+[1237.00s -> 1239.00s] how to mitigate the risk
+[1239.00s -> 1241.00s] so they have prepared an actual case
+[1241.00s -> 1243.00s] for the W
+[1243.00s -> 1245.00s] like for example the Pfizer
+[1245.00s -> 1247.00s] the Pfizer they make a lot of
+[1247.00s -> 1249.00s] oncology injections
+[1249.00s -> 1251.00s] so it's going to be a lot of
+[1251.00s -> 1253.00s] poor condition like minus 40 minus 70
+[1253.00s -> 1255.00s] KFC like chicken food
+[1255.00s -> 1257.00s] they have a temperature like
+[1257.00s -> 1259.00s] minus 50 on the product
+[1259.00s -> 1261.00s] and they could be very challenging
+[1261.00s -> 1263.00s] in terms of microbiology
+[1263.00s -> 1265.00s] in terms of technical
+[1265.00s -> 1267.00s] so they have prepared a summary quality
+[1267.00s -> 1269.00s] KFC, manual and Pfizer as they did
+[1269.00s -> 1271.00s] so my suggestion is
+[1271.00s -> 1273.00s] we should use that
+[1273.00s -> 1275.00s] in the database and the laboratory
+[1275.00s -> 1277.00s] so they have a problem solution
+[1277.00s -> 1279.00s] and what could happen if we say
+[1279.00s -> 1281.00s] kappa, that is your primitive action
+[1281.00s -> 1283.00s] so if this is the problem
+[1283.00s -> 1285.00s] so as an example
+[1285.00s -> 1287.00s] secondly from the clear perspective
+[1287.00s -> 1289.00s] what we say
+[1289.00s -> 1291.00s] right first time
+[1291.00s -> 1293.00s] so when you have a right first time approach
+[1293.00s -> 1295.00s] no problem
+[1295.00s -> 1297.00s] when we decide for example
+[1297.00s -> 1299.00s] if the design is correct
+[1299.00s -> 1301.00s] use a requirement specification
+[1301.00s -> 1303.00s] we should be very clear
+[1303.00s -> 1305.00s] and we need to use the validation approach
+[1305.00s -> 1307.00s] like 32, design qualification
+[1307.00s -> 1309.00s] in the DQ, DQ verification
+[1309.00s -> 1311.00s] installation qualification
+[1311.00s -> 1313.00s] installation verification
+[1313.00s -> 1315.00s] OQ, OQ list qualification
+[1315.00s -> 1317.00s] and verification that finally comes to
+[1317.00s -> 1319.00s] performance verification
+[1319.00s -> 1321.00s] so if we have all this data
+[1321.00s -> 1323.00s] and the configuration of all the sensors
+[1323.00s -> 1325.00s] in order to secure the proper possible system
+[1325.00s -> 1327.00s] there will be like 100%
+[1327.00s -> 1329.00s] so here in Thailand for example
+[1329.00s -> 1331.00s] a big place
+[1331.00s -> 1333.00s] in case they have a lot of
+[1333.00s -> 1335.00s] full storage
+[1335.00s -> 1337.00s] and they have a lot of automation
+[1337.00s -> 1339.00s] and there which also I know
+[1339.00s -> 1341.00s] but they also need the same
+[1341.00s -> 1343.00s] that way they can minimize
+[1343.00s -> 1345.00s] the maximum risk
+[1345.00s -> 1347.00s] so
+[1347.00s -> 1349.00s] thank you very much
+[1349.00s -> 1351.00s] next question is about the energy
+[1351.00s -> 1353.00s] so we are talking about
+[1353.00s -> 1355.00s] warehouse, infrastructure
+[1355.00s -> 1357.00s] and
+[1357.00s -> 1359.00s] new technology
+[1359.00s -> 1361.00s] ESG is a topic
+[1361.00s -> 1363.00s] we can't avoid
+[1363.00s -> 1365.00s] so
+[1365.00s -> 1367.00s] I would like to ask you
+[1367.00s -> 1369.00s] what is the
+[1371.00s -> 1373.00s] energy efficient investments
+[1373.00s -> 1375.00s] are you seeing
+[1375.00s -> 1377.00s] when we deliver the automation
+[1377.00s -> 1379.00s] to co-chain
+[1379.00s -> 1381.00s] storage
+[1381.00s -> 1383.00s] for Malosh it's nice to
+[1383.00s -> 1385.00s] share your insights
+[1385.00s -> 1387.00s] we are in now
+[1387.00s -> 1389.00s] 2026 I think from
+[1389.00s -> 1391.00s] February March everybody is talking
+[1391.00s -> 1393.00s] about the energy
+[1393.00s -> 1395.00s] it's a cost
+[1395.00s -> 1397.00s] and I think everybody is
+[1397.00s -> 1399.00s] main topic in the energy
+[1399.00s -> 1401.00s] so how to save energy
+[1401.00s -> 1403.00s] how to energy patient
+[1403.00s -> 1405.00s] automation in co-storage
+[1405.00s -> 1407.00s] is the topic like everybody
+[1407.00s -> 1409.00s] want to discuss and want to get a solution
+[1409.00s -> 1411.00s] so for the co-storage automation
+[1411.00s -> 1413.00s] so there is a
+[1413.00s -> 1415.00s] main cost is the
+[1415.00s -> 1417.00s] refrigeration cost because
+[1417.00s -> 1419.00s] that is the art of co-storage
+[1419.00s -> 1421.00s] so everything what we do automation
+[1421.00s -> 1423.00s] is to reduce the cost
+[1423.00s -> 1425.00s] in terms of energy
+[1425.00s -> 1427.00s] or in terms of the refrigeration
+[1427.00s -> 1429.00s] now the refrigeration cost how it work
+[1429.00s -> 1431.00s] the refrigeration work is that
+[1431.00s -> 1433.00s] whatever the hot
+[1433.00s -> 1435.00s] air or the is coming inside
+[1435.00s -> 1437.00s] as to go out that is the
+[1437.00s -> 1439.00s] job of the is a simple work for
+[1439.00s -> 1441.00s] the refrigeration
+[1441.00s -> 1443.00s] so when you are designing the co-storage
+[1443.00s -> 1445.00s] the energy patient is first
+[1445.00s -> 1447.00s] so when it is designed so
+[1447.00s -> 1449.00s] many people they talk about only the
+[1449.00s -> 1451.00s] capex watch that ok you do the insulation
+[1451.00s -> 1453.00s] and as less as possible
+[1453.00s -> 1455.00s] you invest first and then
+[1455.00s -> 1457.00s] you start but once you
+[1457.00s -> 1459.00s] done the co-storage you cannot change
+[1459.00s -> 1461.00s] because once you do the mdrd
+[1461.00s -> 1463.00s] what you are saying you have done the
+[1463.00s -> 1465.00s] all qualification drop it may and everything
+[1465.00s -> 1467.00s] and after that you go and change
+[1467.00s -> 1469.00s] I have not used the right insulation
+[1469.00s -> 1471.00s] or the right type of
+[1471.00s -> 1473.00s] installation method
+[1473.00s -> 1475.00s] then it is you cannot change anything
+[1475.00s -> 1477.00s] then you have to be live with that
+[1477.00s -> 1479.00s] and then the energy cost goes high
+[1479.00s -> 1481.00s] so the refrigeration cost the first
+[1481.00s -> 1483.00s] important is that right type of
+[1483.00s -> 1485.00s] insulation for the co-storage
+[1485.00s -> 1487.00s] because in insulation
+[1487.00s -> 1489.00s] as we are in the that industry
+[1489.00s -> 1491.00s] I just give my perspective
+[1491.00s -> 1493.00s] insulation how it work is that
+[1493.00s -> 1495.00s] insulation material have the R value
+[1495.00s -> 1497.00s] and which is linked
+[1497.00s -> 1499.00s] with the K value K factor
+[1499.00s -> 1501.00s] this color temperature position
+[1501.00s -> 1503.00s] so how much heat
+[1503.00s -> 1505.00s] can come inside from the insulation
+[1505.00s -> 1507.00s] so now the
+[1507.00s -> 1509.00s] everybody talk about the K value
+[1509.00s -> 1511.00s] just in the paper in the
+[1511.00s -> 1513.00s] catalog everybody mention the K value
+[1513.00s -> 1515.00s] is 0.021MK
+[1515.00s -> 1517.00s] but nobody talk about the
+[1517.00s -> 1519.00s] AG
+[1519.00s -> 1521.00s] every insulation material have the
+[1521.00s -> 1523.00s] AG that K value
+[1523.00s -> 1525.00s] never stay same
+[1525.00s -> 1527.00s] for next days
+[1527.00s -> 1529.00s] so this topic
+[1529.00s -> 1531.00s] actually normally nobody discuss
+[1531.00s -> 1533.00s] because everybody the panel
+[1533.00s -> 1535.00s] people don't go or the insulation people
+[1535.00s -> 1537.00s] they don't discuss that because
+[1537.00s -> 1539.00s] at the owner
+[1539.00s -> 1541.00s] side or project side they are not
+[1541.00s -> 1543.00s] expert in this so what I am saying
+[1543.00s -> 1545.00s] is here is that whenever we
+[1545.00s -> 1547.00s] talking about the insulation material
+[1547.00s -> 1549.00s] you have to choose the insulation material
+[1549.00s -> 1551.00s] because you want the cold storage for at least
+[1551.00s -> 1553.00s] next 20 years or minimum
+[1553.00s -> 1555.00s] 10 years so the K value should be
+[1555.00s -> 1557.00s] same so that your refrigeration
+[1557.00s -> 1559.00s] design will ask for the same
+[1559.00s -> 1561.00s] load if your K value
+[1561.00s -> 1563.00s] increase it means your
+[1563.00s -> 1565.00s] refrigeration load increase
+[1565.00s -> 1567.00s] so if your refrigeration load increase
+[1567.00s -> 1569.00s] automatically the cost is going to
+[1569.00s -> 1571.00s] increase so in many cold storage
+[1571.00s -> 1573.00s] I think Mr. Devan may agree
+[1573.00s -> 1575.00s] that first year, two year the
+[1575.00s -> 1577.00s] cost is same but same cold storage
+[1577.00s -> 1579.00s] after four five years the cost is more
+[1579.00s -> 1581.00s] so
+[1581.00s -> 1583.00s] why it come because your insulation
+[1583.00s -> 1585.00s] is not problem
+[1585.00s -> 1587.00s] so this is one important
+[1587.00s -> 1589.00s] for how you can save the energy
+[1589.00s -> 1591.00s] so if you choose the right insulation material
+[1591.00s -> 1593.00s] then I think you can do the
+[1593.00s -> 1595.00s] long term for that
+[1595.00s -> 1597.00s] facility now
+[1597.00s -> 1599.00s] second part is that
+[1599.00s -> 1601.00s] automation is
+[1601.00s -> 1603.00s] definitely going to be energy efficient
+[1603.00s -> 1605.00s] but automation have so many challenges
+[1605.00s -> 1607.00s] to overcome that
+[1607.00s -> 1609.00s] for any cold storage the biggest part
+[1609.00s -> 1611.00s] is the airlock system
+[1611.00s -> 1613.00s] because when you open the door
+[1613.00s -> 1615.00s] so all the hot air
+[1615.00s -> 1617.00s] is coming inside and for that
+[1617.00s -> 1619.00s] your refrigeration
+[1619.00s -> 1621.00s] has to work so the proper
+[1621.00s -> 1623.00s] design of the door
+[1623.00s -> 1625.00s] and the airlock now the new thing
+[1625.00s -> 1627.00s] are coming with high speed doors
+[1627.00s -> 1629.00s] but the proper installation is important
+[1629.00s -> 1631.00s] like how the
+[1631.00s -> 1633.00s] there should be some like
+[1633.00s -> 1635.00s] ASAP they are a company
+[1635.00s -> 1637.00s] they put the barriers properly
+[1637.00s -> 1639.00s] it will not get damaged
+[1639.00s -> 1641.00s] very small solution but they have
+[1641.00s -> 1643.00s] long term in terms of
+[1643.00s -> 1645.00s] the energy cost
+[1645.00s -> 1647.00s] so that how the door should be open
+[1647.00s -> 1649.00s] and how the sensors
+[1649.00s -> 1651.00s] should be properly airlock
+[1651.00s -> 1653.00s] every cold storage has to be
+[1653.00s -> 1655.00s] airlock area so that
+[1655.00s -> 1657.00s] the refrigeration
+[1657.00s -> 1659.00s] will not work continuously
+[1659.00s -> 1661.00s] then now the new solutions are coming
+[1661.00s -> 1663.00s] very much frequency guys
+[1663.00s -> 1665.00s] so that all the compressor should not
+[1665.00s -> 1667.00s] be work continuously
+[1667.00s -> 1669.00s] so there are so many technical new things
+[1669.00s -> 1671.00s] are coming like these are
+[1671.00s -> 1673.00s] so many people they are investing and they are
+[1673.00s -> 1675.00s] you know they see so that thing
+[1675.00s -> 1677.00s] is coming to save the energy
+[1677.00s -> 1679.00s] and another thing is that
+[1679.00s -> 1681.00s] for the
+[1681.00s -> 1683.00s] when the cold storage is operating
+[1683.00s -> 1685.00s] so automation part
+[1685.00s -> 1687.00s] is coming into play but automation also
+[1687.00s -> 1689.00s] we have to see that right type of automation
+[1689.00s -> 1691.00s] for the right product because
+[1691.00s -> 1693.00s] now things are coming that is
+[1693.00s -> 1695.00s] automation is becoming
+[1695.00s -> 1697.00s] common so they use the same
+[1697.00s -> 1699.00s] automation sometimes for the different product
+[1699.00s -> 1701.00s] because everybody want to say
+[1701.00s -> 1703.00s] so as a
+[1703.00s -> 1705.00s] cold storage owner or something they have to
+[1705.00s -> 1707.00s] choose what set up we want to say that
+[1707.00s -> 1709.00s] so many things which
+[1709.00s -> 1711.00s] energy efficiency can be
+[1711.00s -> 1713.00s] energy saving can be done in the
+[1713.00s -> 1715.00s] cold storage automation thank you
+[1715.00s -> 1717.00s] thank you yes
+[1717.00s -> 1719.00s] so I would like to
+[1719.00s -> 1721.00s] say that I completely agree with
+[1721.00s -> 1723.00s] my note it's about the strategy
+[1723.00s -> 1725.00s] of our cold storage at the beginning
+[1725.00s -> 1727.00s] not like
+[1727.00s -> 1729.00s] okay what is the cold storage
+[1729.00s -> 1731.00s] available at this moment so we just
+[1731.00s -> 1733.00s] feel like that it's about
+[1733.00s -> 1735.00s] your business
+[1735.00s -> 1737.00s] strategy
+[1737.00s -> 1739.00s] so I suppose that
+[1739.00s -> 1741.00s] just one more additional comment
+[1741.00s -> 1743.00s] even if we have the right
+[1743.00s -> 1745.00s] isolated door
+[1745.00s -> 1747.00s] but our operation is not
+[1747.00s -> 1749.00s] properly set up
+[1749.00s -> 1751.00s] for example
+[1751.00s -> 1753.00s] completely
+[1753.00s -> 1755.00s] perfect
+[1755.00s -> 1757.00s] isolation door but
+[1757.00s -> 1759.00s] our operators still open the door
+[1759.00s -> 1761.00s] so many times
+[1761.00s -> 1763.00s] so we cannot save energy at all
+[1763.00s -> 1765.00s] I think this point is still solid
+[1765.00s -> 1767.00s] also solid as well
+[1767.00s -> 1769.00s] adding fog with minor point of view
+[1769.00s -> 1771.00s] yeah that's all my comment
+[1771.00s -> 1773.00s] and also when we consider
+[1773.00s -> 1775.00s] the WHO database
+[1775.00s -> 1777.00s] like how we can optimize the energy
+[1777.00s -> 1779.00s] cost so they are very
+[1779.00s -> 1781.00s] scientific and very specific
+[1781.00s -> 1783.00s] as K value as it could be said
+[1783.00s -> 1785.00s] discipline is also there discipline
+[1785.00s -> 1787.00s] sometimes design is okay
+[1787.00s -> 1789.00s] doors are okay pressure is okay
+[1789.00s -> 1791.00s] airlock system is okay but people don't
+[1791.00s -> 1793.00s] follow you know so also it makes
+[1793.00s -> 1795.00s] a difference so and
+[1795.00s -> 1797.00s] everything have a shelf life
+[1797.00s -> 1799.00s] even the door insulation
+[1799.00s -> 1801.00s] or have shelf life like initially
+[1801.00s -> 1803.00s] design is okay
+[1803.00s -> 1805.00s] design qualification
+[1805.00s -> 1807.00s] if we have a K value say for example
+[1807.00s -> 1809.00s] but after one month, two months
+[1809.00s -> 1811.00s] how? we have to monitor
+[1811.00s -> 1813.00s] because it will affect you know
+[1813.00s -> 1815.00s] so like in engineering terms
+[1815.00s -> 1817.00s] we say good engineering practices
+[1817.00s -> 1819.00s] there is a term called 4 or equipment efficiency
+[1819.00s -> 1821.00s] so for example initially
+[1821.00s -> 1823.00s] we are getting the terms of recognition
+[1823.00s -> 1825.00s] this much with a 90% capacity
+[1825.00s -> 1827.00s] but after
+[1827.00s -> 1829.00s] we have the more load, more entropy
+[1829.00s -> 1831.00s] and may change so that also
+[1831.00s -> 1833.00s] we have to calculate as a buffer
+[1833.00s -> 1835.00s] and we have to monitor
+[1835.00s -> 1837.00s] same like you know a light
+[1837.00s -> 1839.00s] when you buy a light of say 120 watt
+[1839.00s -> 1841.00s] when it was 6 months right time
+[1841.00s -> 1843.00s] same 120 watt after 6 months
+[1843.00s -> 1845.00s] like in the next because energy
+[1845.00s -> 1847.00s] number of hours so this all need to be
+[1847.00s -> 1849.00s] considered as a part of energy
+[1849.00s -> 1851.00s] loss of pollution
+[1851.00s -> 1853.00s] okay
+[1853.00s -> 1855.00s] for my idea I think
+[1855.00s -> 1857.00s] I know that
+[1857.00s -> 1859.00s] transportation is very important
+[1859.00s -> 1861.00s] like in need to have a
+[1861.00s -> 1863.00s] how to keep the coal in the room
+[1863.00s -> 1865.00s] how to use raw insulation
+[1865.00s -> 1867.00s] with high-spec door
+[1867.00s -> 1869.00s] with dark shoulder anything
+[1869.00s -> 1871.00s] is part of it
+[1871.00s -> 1873.00s] so this is very important to invest
+[1873.00s -> 1875.00s] solar pv also
+[1875.00s -> 1877.00s] but for my size
+[1877.00s -> 1879.00s] I would like to share one more thing
+[1879.00s -> 1881.00s] is how to monitor
+[1881.00s -> 1883.00s] how to track the real time
+[1883.00s -> 1885.00s] the data
+[1885.00s -> 1887.00s] is correct or not
+[1887.00s -> 1889.00s] the optimization
+[1889.00s -> 1891.00s] for the setting point of temperature
+[1891.00s -> 1893.00s] is proper or not
+[1893.00s -> 1895.00s] sometimes you need to control your operation
+[1895.00s -> 1897.00s] not rely on just equipment
+[1897.00s -> 1899.00s] okay
+[1899.00s -> 1901.00s] sometimes you need to set the point
+[1901.00s -> 1903.00s] the temperature is proper
+[1903.00s -> 1905.00s] to suit with your
+[1905.00s -> 1907.00s] your usage
+[1907.00s -> 1909.00s] sometimes no need to set up to coal
+[1909.00s -> 1911.00s] it depends on your strategy
+[1911.00s -> 1913.00s] so the monitor checking
+[1913.00s -> 1915.00s] real time checking
+[1915.00s -> 1917.00s] need to invest first
+[1917.00s -> 1919.00s] to understand your whole project
+[1919.00s -> 1921.00s] is put in the right way or not
+[1921.00s -> 1923.00s] so I think it's very important
+[1923.00s -> 1925.00s] to invest to see the whole
+[1925.00s -> 1927.00s] data and project real time
+[1929.00s -> 1931.00s] yeah thank you
+[1931.00s -> 1933.00s] I believe the energy savings
+[1933.00s -> 1935.00s] is a critical
+[1935.00s -> 1937.00s] factor
+[1937.00s -> 1939.00s] in coal room
+[1939.00s -> 1941.00s] warehousing
+[1941.00s -> 1943.00s] from user perspective
+[1943.00s -> 1945.00s] with user
+[1945.00s -> 1947.00s] prefer to pay additional
+[1947.00s -> 1949.00s] money
+[1949.00s -> 1951.00s] when the coal chain warehouse
+[1951.00s -> 1953.00s] comes with
+[1953.00s -> 1955.00s] ESG
+[1955.00s -> 1957.00s] qualification or certificate
+[1957.00s -> 1959.00s] for our business
+[1959.00s -> 1961.00s] for sure we
+[1961.00s -> 1963.00s] we are willing to pay
+[1963.00s -> 1965.00s] even much more
+[1965.00s -> 1967.00s] higher cost
+[1967.00s -> 1969.00s] but it is guarantee our product quality
+[1969.00s -> 1971.00s] for our business
+[1971.00s -> 1973.00s] we need to pay
+[1973.00s -> 1975.00s] but if we can save that cost
+[1975.00s -> 1977.00s] it's better
+[1977.00s -> 1979.00s] okay for my side
+[1979.00s -> 1981.00s] on behalf of
+[1981.00s -> 1983.00s] also and public also
+[1983.00s -> 1985.00s] I have many certified
+[1985.00s -> 1987.00s] but I still have lower price for
+[1987.00s -> 1989.00s] customer
+[1989.00s -> 1991.00s] so I think now many companies
+[1991.00s -> 1993.00s] so increase the quality
+[1993.00s -> 1995.00s] of the quality of
+[1995.00s -> 1997.00s] the service
+[1997.00s -> 1999.00s] we need to command to be happy
+[1999.00s -> 2001.00s] no need other than to
+[2001.00s -> 2003.00s] increase your price
+[2003.00s -> 2005.00s] I think on my side 40 years ago
+[2005.00s -> 2007.00s] right now the price is lower and lower
+[2007.00s -> 2009.00s] not the same price as before
+[2009.00s -> 2011.00s] so it's why
+[2011.00s -> 2013.00s] so now we need to increase your quality
+[2013.00s -> 2015.00s] so however
+[2015.00s -> 2017.00s] if you come to me
+[2017.00s -> 2019.00s] we are my customers
+[2019.00s -> 2021.00s] not cost sensitive
+[2023.00s -> 2025.00s] thank you
+[2025.00s -> 2027.00s] let's move on to the next question
+[2027.00s -> 2029.00s] so
+[2029.00s -> 2031.00s] IoT based temperature
+[2031.00s -> 2033.00s] and SM monitoring
+[2033.00s -> 2035.00s] is now expanding
+[2035.00s -> 2037.00s] so
+[2037.00s -> 2039.00s] would you mind
+[2039.00s -> 2041.00s] share something about
+[2041.00s -> 2043.00s] IoT
+[2043.00s -> 2045.00s] how we can implement
+[2045.00s -> 2047.00s] the IoT in whole chain
+[2047.00s -> 2049.00s] logistics
+[2049.00s -> 2051.00s] thank you for the questions
+[2051.00s -> 2053.00s] from my perspective
+[2053.00s -> 2055.00s] as I said before
+[2055.00s -> 2057.00s] temperature
+[2057.00s -> 2059.00s] is one factor
+[2059.00s -> 2061.00s] for biological
+[2061.00s -> 2063.00s] products
+[2063.00s -> 2065.00s] we are not monitoring environment
+[2065.00s -> 2067.00s] only we are protecting life
+[2069.00s -> 2071.00s] okay so for me
+[2071.00s -> 2073.00s] IoT is not just about
+[2073.00s -> 2075.00s] adding more and more sensors
+[2075.00s -> 2077.00s] in your warehouse
+[2077.00s -> 2079.00s] it's about understanding what factors
+[2079.00s -> 2081.00s] are critical to your business
+[2081.00s -> 2083.00s] and operations
+[2083.00s -> 2085.00s] so
+[2085.00s -> 2087.00s] for example in our
+[2087.00s -> 2089.00s] facilities warehouse
+[2089.00s -> 2091.00s] we are
+[2091.00s -> 2093.00s] we monitor not only temperature
+[2093.00s -> 2095.00s] we also monitor
+[2095.00s -> 2097.00s] humidity
+[2097.00s -> 2099.00s] ventilation
+[2099.00s -> 2101.00s] or airflow
+[2101.00s -> 2103.00s] we monitor lighting
+[2103.00s -> 2105.00s] we monitor product handling
+[2105.00s -> 2107.00s] and even we
+[2107.00s -> 2109.00s] monitor door opening
+[2109.00s -> 2111.00s] and opening frequency
+[2111.00s -> 2113.00s] for real time monitoring
+[2113.00s -> 2115.00s] I think
+[2115.00s -> 2117.00s] it helps us
+[2117.00s -> 2119.00s] to have better visibility
+[2119.00s -> 2121.00s] and also allows us to
+[2121.00s -> 2123.00s] respond immediately
+[2123.00s -> 2125.00s] when something goes wrong
+[2125.00s -> 2127.00s] for
+[2127.00s -> 2129.00s] from my experience
+[2129.00s -> 2131.00s] the
+[2131.00s -> 2133.00s] the biggest
+[2133.00s -> 2135.00s] the biggest
+[2135.00s -> 2137.00s] issue
+[2137.00s -> 2139.00s] is often incoming
+[2139.00s -> 2141.00s] is during transition
+[2141.00s -> 2143.00s] not only in your warehouse
+[2143.00s -> 2145.00s] for example the transition
+[2145.00s -> 2147.00s] point between warehouse
+[2147.00s -> 2149.00s] to transportation
+[2149.00s -> 2151.00s] to for me airport operations
+[2151.00s -> 2153.00s] where
+[2153.00s -> 2155.00s] the visibility is limited
+[2155.00s -> 2157.00s] so this
+[2157.00s -> 2159.00s] IoT is helping
+[2161.00s -> 2163.00s] for
+[2163.00s -> 2165.00s] for the final
+[2165.00s -> 2167.00s] conclusion
+[2167.00s -> 2169.00s] I think
+[2169.00s -> 2171.00s] analyzing and monitoring
+[2171.00s -> 2173.00s] in the
+[2173.00s -> 2175.00s] sensors or IoT
+[2175.00s -> 2177.00s] will help us with the better
+[2177.00s -> 2179.00s] visibility
+[2179.00s -> 2181.00s] to understand what really
+[2181.00s -> 2183.00s] happened with our issues
+[2183.00s -> 2185.00s] and also
+[2185.00s -> 2187.00s] if you use it correctly
+[2187.00s -> 2189.00s] you can better
+[2189.00s -> 2191.00s] improve your product operation
+[2191.00s -> 2193.00s] your operations completely
+[2193.00s -> 2195.00s] that's my opinion
+[2195.00s -> 2197.00s] not only see
+[2197.00s -> 2199.00s] what happened
+[2199.00s -> 2201.00s] but we need to use it
+[2201.00s -> 2203.00s] to analyze our issue
+[2203.00s -> 2205.00s] and improve
+[2205.00s -> 2207.00s] thank you so probably
+[2207.00s -> 2209.00s] the life anymore
+[2209.00s -> 2211.00s] logistics is one of
+[2211.00s -> 2213.00s] the most
+[2213.00s -> 2215.00s] heavily
+[2215.00s -> 2217.00s] IoT implemented
+[2217.00s -> 2219.00s] industry
+[2219.00s -> 2221.00s] just
+[2221.00s -> 2223.00s] give you some example for our
+[2223.00s -> 2225.00s] transportation
+[2225.00s -> 2227.00s] just for one pilot
+[2227.00s -> 2229.00s] we have about 11 sensors
+[2229.00s -> 2231.00s] and it's really expensive
+[2235.00s -> 2237.00s] so but how about
+[2237.00s -> 2239.00s] life animals
+[2239.00s -> 2241.00s] would you mind share something
+[2241.00s -> 2243.00s] here IoT
+[2243.00s -> 2245.00s] from MTA perspective
+[2245.00s -> 2247.00s] is good to have not mandatory
+[2247.00s -> 2249.00s] not statute
+[2249.00s -> 2251.00s] that is okay
+[2251.00s -> 2253.00s] because MTA say if you use IoT
+[2253.00s -> 2255.00s] means internet of things
+[2255.00s -> 2257.00s] it need to be validated
+[2257.00s -> 2259.00s] full validation
+[2259.00s -> 2261.00s] because if there is no validation
+[2261.00s -> 2263.00s] no many chances of error will be very high
+[2263.00s -> 2265.00s] and there is a guidance
+[2265.00s -> 2267.00s] called 21 CFR partner
+[2267.00s -> 2269.00s] so we need to qualify
+[2269.00s -> 2271.00s] for example
+[2271.00s -> 2273.00s] the temperature of KFC chicken
+[2273.00s -> 2275.00s] may be minus 10
+[2275.00s -> 2277.00s] if you are an IoT sensor
+[2277.00s -> 2279.00s] so we have to follow the guidelines
+[2279.00s -> 2281.00s] called validation
+[2281.00s -> 2283.00s] if the validation is okay
+[2283.00s -> 2285.00s] you can use any solution
+[2285.00s -> 2287.00s] so MTA
+[2287.00s -> 2289.00s] globally is not mandatory
+[2289.00s -> 2291.00s] because if you use IoT
+[2291.00s -> 2293.00s] chances of error is very high
+[2293.00s -> 2295.00s] and you cannot see from eyes
+[2295.00s -> 2297.00s] so if you have validation go ahead
+[2297.00s -> 2299.00s] if no, no need
+[2299.00s -> 2301.00s] just like a normal message
+[2301.00s -> 2303.00s] I see thank you
+[2303.00s -> 2305.00s] do you see any
+[2305.00s -> 2307.00s] future opportunity
+[2307.00s -> 2309.00s] for IoT
+[2309.00s -> 2311.00s] in whole shared logistics
+[2311.00s -> 2313.00s] we are sure
+[2313.00s -> 2315.00s] now that we use IoT
+[2315.00s -> 2317.00s] so at the beginning
+[2317.00s -> 2319.00s] to the end
+[2319.00s -> 2321.00s] for getting about customer
+[2321.00s -> 2323.00s] we need to track the data
+[2323.00s -> 2325.00s] use IoT
+[2325.00s -> 2327.00s] even security guard
+[2327.00s -> 2329.00s] to issue the bug
+[2329.00s -> 2331.00s] so I think IoT
+[2331.00s -> 2333.00s] you need to integrate smoothly
+[2333.00s -> 2335.00s] and in the future
+[2335.00s -> 2337.00s] we use IoT
+[2337.00s -> 2339.00s] implement with API
+[2339.00s -> 2341.00s] with AI
+[2341.00s -> 2343.00s] so now let me try to
+[2343.00s -> 2345.00s] use to see whether the VMS
+[2345.00s -> 2347.00s] combine with IoT
+[2347.00s -> 2349.00s] and interface with API
+[2349.00s -> 2351.00s] and to AI
+[2351.00s -> 2353.00s] and so in the future
+[2353.00s -> 2355.00s] customer
+[2355.00s -> 2357.00s] you can simply check
+[2357.00s -> 2359.00s] that you are stock
+[2359.00s -> 2361.00s] and you are temperature compliant
+[2361.00s -> 2363.00s] for location
+[2363.00s -> 2365.00s] product locations by themselves
+[2365.00s -> 2367.00s] and also can
+[2367.00s -> 2369.00s] can keep some analyzed data
+[2369.00s -> 2371.00s] so you can plan
+[2371.00s -> 2373.00s] for how many days they can keep
+[2373.00s -> 2375.00s] if they want to
+[2375.00s -> 2377.00s] sell product right now
+[2377.00s -> 2379.00s] so I think it's
+[2379.00s -> 2381.00s] very efficient in the future
+[2381.00s -> 2383.00s] when we use IoT
+[2383.00s -> 2385.00s] combine in the future with AI
+[2385.00s -> 2387.00s] I think future will go like this
+[2387.00s -> 2389.00s] thank you
+[2389.00s -> 2391.00s] how much do you see
+[2391.00s -> 2393.00s] IoT is actually going to be a future
+[2393.00s -> 2395.00s] because it will
+[2395.00s -> 2397.00s] it will be the base
+[2397.00s -> 2399.00s] to the like robotic systems
+[2399.00s -> 2401.00s] are coming and all that
+[2401.00s -> 2403.00s] so what I say AI and all that
+[2403.00s -> 2405.00s] because it should be work automatically
+[2405.00s -> 2407.00s] but I would have to complete that validation
+[2407.00s -> 2409.00s] so there are the this IoT
+[2409.00s -> 2411.00s] should be calibrated
+[2411.00s -> 2413.00s] there should be a systems forward
+[2413.00s -> 2415.00s] then I think this IOC can be used as
+[2415.00s -> 2417.00s] a really main base
+[2417.00s -> 2419.00s] for this now this is what AI
+[2419.00s -> 2421.00s] is coming and all that
+[2421.00s -> 2423.00s] so I think it is the future
+[2423.00s -> 2425.00s] I see, thank you
+[2425.00s -> 2427.00s] so our last question
+[2427.00s -> 2429.00s] is about the system integration
+[2429.00s -> 2431.00s] we've been talking a lot
+[2431.00s -> 2433.00s] about the hardware
+[2433.00s -> 2435.00s] the infrastructure
+[2435.00s -> 2437.00s] but integration probably is one of the
+[2437.00s -> 2439.00s] also one of the most
+[2439.00s -> 2441.00s] important
+[2441.00s -> 2443.00s] sector
+[2443.00s -> 2445.00s] so what do you
+[2445.00s -> 2447.00s] think about the integration
+[2447.00s -> 2449.00s] is there any
+[2449.00s -> 2451.00s] best practice to
+[2451.00s -> 2453.00s] connect the hardware
+[2453.00s -> 2455.00s] software
+[2455.00s -> 2457.00s] and the buildings together
+[2457.00s -> 2459.00s] there is a guidance
+[2459.00s -> 2461.00s] called ISP
+[2461.00s -> 2463.00s] we say
+[2463.00s -> 2465.00s] ISP
+[2465.00s -> 2467.00s] there is a chapter called 3.2
+[2467.00s -> 2469.00s] that describes how to
+[2469.00s -> 2471.00s] integrate your mechanical, electrical
+[2471.00s -> 2473.00s] built-in infrastructure
+[2473.00s -> 2475.00s] because people discrete
+[2475.00s -> 2477.00s] people only desalate
+[2477.00s -> 2479.00s] whatever system I am made
+[2479.00s -> 2481.00s] correct
+[2481.00s -> 2483.00s] ISP is for the engineering
+[2483.00s -> 2485.00s] so they say from the engineering
+[2485.00s -> 2487.00s] perspective from the QA
+[2487.00s -> 2489.00s] from the civil, mechanical, electrical
+[2489.00s -> 2491.00s] so they have a
+[2491.00s -> 2493.00s] how to integrate
+[2493.00s -> 2495.00s] for each kind of
+[2495.00s -> 2497.00s] for example if it is a target form
+[2497.00s -> 2499.00s] how to do, capsule
+[2499.00s -> 2501.00s] how to do, injection
+[2501.00s -> 2503.00s] how to do
+[2503.00s -> 2505.00s] so they have like a
+[2505.00s -> 2507.00s] so better I think we can follow the timeline
+[2507.00s -> 2509.00s] and they also calculate the risk
+[2509.00s -> 2511.00s] because nobody is perfect in the world
+[2511.00s -> 2513.00s] when we do an integration
+[2513.00s -> 2515.00s] it cannot be 100%
+[2515.00s -> 2517.00s] only experienced people will do the
+[2517.00s -> 2519.00s] experience for example
+[2519.00s -> 2521.00s] we have very experienced
+[2521.00s -> 2523.00s] so whatever we have knowledge and experience
+[2523.00s -> 2525.00s] we will share
+[2525.00s -> 2527.00s] but mainly this is implemented or not
+[2527.00s -> 2529.00s] so we have to do a risk assessment
+[2529.00s -> 2531.00s] based on the risk assessment
+[2531.00s -> 2533.00s] if we identify the risk
+[2533.00s -> 2535.00s] we can prepare a
+[2535.00s -> 2537.00s] improvement plan like risk mitigation
+[2537.00s -> 2539.00s] for example now the risk
+[2539.00s -> 2541.00s] for integration is like 24
+[2541.00s -> 2543.00s] after 2 months it will be 3
+[2543.00s -> 2545.00s] for that kind of approach
+[2545.00s -> 2547.00s] ISP say
+[2547.00s -> 2549.00s] otherwise integration cannot be perfect
+[2549.00s -> 2551.00s] in just a paper it looks nice
+[2551.00s -> 2553.00s] luxury, beauty, but in reality
+[2553.00s -> 2555.00s] we have to be practical also
+[2555.00s -> 2557.00s] and quantitative way of
+[2557.00s -> 2559.00s] calculating the risk
+[2559.00s -> 2561.00s] and then consider the improvement plan
+[2561.00s -> 2563.00s] how we can mitigate, how we can reduce the risk
+[2565.00s -> 2567.00s] thank you Dr. Tan
+[2567.00s -> 2569.00s] from Singapore
+[2569.00s -> 2571.00s] would you like to share your opinions
+[2571.00s -> 2573.00s] regarding the integration
+[2573.00s -> 2575.00s] okay so
+[2575.00s -> 2577.00s] I think you need to
+[2577.00s -> 2579.00s] set the survey journey
+[2579.00s -> 2581.00s] your survey journey to clear
+[2581.00s -> 2583.00s] and simple and practical
+[2583.00s -> 2585.00s] in simple way
+[2585.00s -> 2587.00s] before you integrate
+[2587.00s -> 2589.00s] all the models
+[2589.00s -> 2591.00s] because you need to combine
+[2591.00s -> 2593.00s] with the people process
+[2593.00s -> 2595.00s] IOT
+[2595.00s -> 2597.00s] development, UCS, automation equipment
+[2597.00s -> 2599.00s] in the one load
+[2599.00s -> 2601.00s] with reliable
+[2601.00s -> 2603.00s] reliable operations system
+[2603.00s -> 2605.00s] so however you need to
+[2605.00s -> 2607.00s] make sure the whole database
+[2607.00s -> 2609.00s] need to put center light
+[2609.00s -> 2611.00s] into the building and you can see
+[2611.00s -> 2613.00s] all the things inside the building
+[2613.00s -> 2615.00s] with the real interface
+[2615.00s -> 2617.00s] and then
+[2617.00s -> 2619.00s] I suggest that you need to have
+[2619.00s -> 2621.00s] a correct action
+[2621.00s -> 2623.00s] when you see the
+[2623.00s -> 2625.00s] when you check the real time operation system
+[2625.00s -> 2627.00s] so you see which part
+[2627.00s -> 2629.00s] has problem and you need to
+[2629.00s -> 2631.00s] fix it quickly fix it
+[2631.00s -> 2633.00s] the system needs to allow
+[2633.00s -> 2635.00s] alternative
+[2635.00s -> 2637.00s] method to fix the problem
+[2637.00s -> 2639.00s] so I think
+[2639.00s -> 2641.00s] how to maintain
+[2641.00s -> 2643.00s] and how to see the whole
+[2643.00s -> 2645.00s] operation is
+[2645.00s -> 2647.00s] very simple way
+[2647.00s -> 2649.00s] and very much
+[2649.00s -> 2651.00s] okay I see
+[2651.00s -> 2653.00s] I agree with
+[2653.00s -> 2655.00s] two previous speakers
+[2655.00s -> 2657.00s] in my opinion it's just simple
+[2657.00s -> 2659.00s] that for the integration
+[2659.00s -> 2661.00s] it's not only the system
+[2661.00s -> 2663.00s] integration it's
+[2663.00s -> 2665.00s] whole chain integration
+[2665.00s -> 2667.00s] including system
+[2667.00s -> 2669.00s] transportation, warehousing
+[2669.00s -> 2671.00s] and operation
+[2671.00s -> 2673.00s] so if you can connect the dot
+[2673.00s -> 2675.00s] I think the integration
+[2675.00s -> 2677.00s] will be successfully
+[2677.00s -> 2679.00s] integrated
+[2679.00s -> 2681.00s] that's the key for me
+[2681.00s -> 2683.00s] thank you
+[2685.00s -> 2687.00s] for the
+[2687.00s -> 2689.00s] I suggest you have
+[2689.00s -> 2691.00s] a verification
+[2691.00s -> 2693.00s] checkpoint so it's very
+[2693.00s -> 2695.00s] important to set this
+[2695.00s -> 2697.00s] checkpoint percent because
+[2697.00s -> 2699.00s] when you get the product
+[2699.00s -> 2701.00s] we need to verify the data
+[2701.00s -> 2703.00s] the data is wrong or not
+[2703.00s -> 2705.00s] when you input the item
+[2705.00s -> 2707.00s] the product into your packet
+[2707.00s -> 2709.00s] we need to verify the confirmation
+[2709.00s -> 2711.00s] the number the item is correct or not
+[2711.00s -> 2713.00s] when you confirm the staging
+[2713.00s -> 2715.00s] when you begin and this pass
+[2715.00s -> 2717.00s] we need to have the state
+[2717.00s -> 2719.00s] for each state need to verify
+[2719.00s -> 2721.00s] verify and confirm
+[2721.00s -> 2723.00s] so it's very
+[2723.00s -> 2725.00s] important if sometimes
+[2725.00s -> 2727.00s] system malfunction sometimes
+[2727.00s -> 2729.00s] get wrong data
+[2729.00s -> 2731.00s] sometimes has few made error inside the
+[2731.00s -> 2733.00s] process how to prevent it
+[2733.00s -> 2735.00s] so I think every state
+[2735.00s -> 2737.00s] have the verification state
+[2737.00s -> 2739.00s] for each state so put it inside
+[2739.00s -> 2741.00s] I think you can implement this
+[2741.00s -> 2743.00s] easy for it for now
+[2743.00s -> 2745.00s] yes
+[2745.00s -> 2747.00s] the integration is actually
+[2747.00s -> 2749.00s] now for all industry
+[2749.00s -> 2751.00s] most of the manufacturing industry now
+[2751.00s -> 2753.00s] it's coming most that DNA system
+[2753.00s -> 2755.00s] all the data
+[2755.00s -> 2756.00s] because
+[2756.00s -> 2758.00s] individual communication is very important
+[2758.00s -> 2760.00s] like if some
+[2760.00s -> 2761.00s] like operation
+[2761.00s -> 2763.00s] then in the warehouse
+[2763.00s -> 2765.00s] so there is a communication is very important
+[2765.00s -> 2767.00s] so like
+[2767.00s -> 2769.00s] we are present at connecting the dots
+[2769.00s -> 2771.00s] so for this communication
+[2771.00s -> 2773.00s] the integration is a must
+[2773.00s -> 2775.00s] so if the integration is there
+[2775.00s -> 2777.00s] anything is the red flag
+[2777.00s -> 2779.00s] it will be in real time
+[2779.00s -> 2781.00s] we can see the real flag
+[2781.00s -> 2783.00s] we can investigate and get the correct
+[2783.00s -> 2785.00s] reaction as soon as possible
+[2785.00s -> 2787.00s] rather than the manual communication
+[2787.00s -> 2789.00s] so I think the integration is
+[2789.00s -> 2791.00s] much for any
+[2791.00s -> 2793.00s] organization
+[2795.00s -> 2797.00s] who do you think
+[2797.00s -> 2799.00s] should be responsible for the
+[2799.00s -> 2801.00s] integration or who
+[2801.00s -> 2803.00s] take lead
+[2803.00s -> 2805.00s] is it a warehouse provider
+[2805.00s -> 2807.00s] or the user
+[2807.00s -> 2809.00s] yes
+[2809.00s -> 2811.00s] that's how it is
+[2811.00s -> 2813.00s] like in 5 months we say
+[2813.00s -> 2815.00s] user because we give the user
+[2815.00s -> 2817.00s] requirement specification to the supplier
+[2817.00s -> 2819.00s] and we are the user
+[2819.00s -> 2821.00s] we have to do everything goes wrong
+[2821.00s -> 2823.00s] because we are the owner
+[2823.00s -> 2825.00s] if anything goes wrong
+[2825.00s -> 2827.00s] no excuse
+[2827.00s -> 2829.00s] so it's our responsibility
+[2829.00s -> 2831.00s] our accountability
+[2831.00s -> 2833.00s] to be very serious
+[2833.00s -> 2835.00s] whatever specification we give to
+[2835.00s -> 2837.00s] therefore
+[2837.00s -> 2839.00s] when it goes wrong we have to make up
+[2839.00s -> 2841.00s] only user
+[2841.00s -> 2843.00s] and user also
+[2843.00s -> 2845.00s] in pharma they say
+[2845.00s -> 2847.00s] because today they have to
+[2847.00s -> 2849.00s] ensure everything
+[2851.00s -> 2853.00s] thank you
+[2853.00s -> 2855.00s] we
+[2855.00s -> 2857.00s] covered a lot
+[2857.00s -> 2859.00s] in this topic
+[2859.00s -> 2861.00s] and
+[2861.00s -> 2863.00s] obviously the
+[2863.00s -> 2865.00s] estimation in cold chain warehouse
+[2865.00s -> 2867.00s] can bring us
+[2867.00s -> 2869.00s] a lot of benefits
+[2869.00s -> 2871.00s] like energy saving
+[2871.00s -> 2873.00s] cost saving
+[2873.00s -> 2875.00s] better management
+[2875.00s -> 2877.00s] of the manpower
+[2877.00s -> 2879.00s] more visibility
+[2879.00s -> 2881.00s] however
+[2881.00s -> 2883.00s] there is still a long way to go
+[2883.00s -> 2885.00s] from
+[2885.00s -> 2887.00s] the first phase
+[2887.00s -> 2889.00s] design phase to the final
+[2889.00s -> 2891.00s] execution
+[2891.00s -> 2893.00s] I also believe
+[2893.00s -> 2895.00s] that this is
+[2895.00s -> 2897.00s] the trend
+[2897.00s -> 2899.00s] in the warehouse
+[2899.00s -> 2901.00s] industry
+[2901.00s -> 2903.00s] so thank you very much everyone
+[2903.00s -> 2905.00s] to bring us
+[2905.00s -> 2907.00s] a fruitful discussion today
+[2907.00s -> 2909.00s] and
+[2909.00s -> 2911.00s] I'm sure if our audience
+[2911.00s -> 2913.00s] we still have some time
+[2913.00s -> 2915.00s] any audience you would like to
+[2915.00s -> 2917.00s] ask any question
+[2917.00s -> 2919.00s] to the panelists
+[2919.00s -> 2921.00s] alright so we have around
+[2921.00s -> 2923.00s] 10 minutes left
+[2923.00s -> 2925.00s] anyone have a question you can raise your hand
+[2925.00s -> 2927.00s] I will start bringing my people to you as well
+[2929.00s -> 2931.00s] any question
+[2931.00s -> 2933.00s] no
+[2933.00s -> 2935.00s] representation
+[2935.00s -> 2937.00s] no question on floor
+[2937.00s -> 2939.00s] I think because we covered
+[2939.00s -> 2941.00s] everything
+[2941.00s -> 2943.00s] yeah so see
+[2943.00s -> 2945.00s] any information from our panelists
+[2945.00s -> 2947.00s] besides who
+[2947.00s -> 2949.00s] bring to audience
+[2953.00s -> 2955.00s] for me
+[2955.00s -> 2957.00s] as I said
+[2957.00s -> 2959.00s] when you want to apply the
+[2959.00s -> 2961.00s] automation
+[2961.00s -> 2963.00s] not just focus on the machine
+[2963.00s -> 2965.00s] and the machine is not
+[2965.00s -> 2967.00s] the key
+[2967.00s -> 2969.00s] it's the ability to connect
+[2969.00s -> 2971.00s] the people
+[2971.00s -> 2973.00s] and the process
+[2973.00s -> 2975.00s] the equipment
+[2975.00s -> 2977.00s] and also
+[2977.00s -> 2979.00s] maintaining capability
+[2979.00s -> 2981.00s] into one
+[2981.00s -> 2983.00s] reliable proposal
+[2983.00s -> 2985.00s] that is the point
+[2985.00s -> 2987.00s] so you choose things
+[2987.00s -> 2989.00s] do I want to use automation
+[2989.00s -> 2991.00s] but you need to see which process
+[2991.00s -> 2993.00s] need to be
+[2993.00s -> 2995.00s] applied with automation
+[2995.00s -> 2997.00s] and how we can measure the value
+[2997.00s -> 2999.00s] so I think it's the question
+[2999.00s -> 3001.00s] to ask yourself before you implement this
+[3001.00s -> 3003.00s] thank you
+[3003.00s -> 3005.00s] I would like to
+[3005.00s -> 3007.00s] use the face of
+[3007.00s -> 3009.00s] that
+[3009.00s -> 3011.00s] it's not about the training
+[3011.00s -> 3013.00s] for implementation of automation
+[3013.00s -> 3015.00s] it's about
+[3015.00s -> 3017.00s] you need to ask yourself
+[3017.00s -> 3019.00s] what is really important to your business
+[3019.00s -> 3021.00s] and then
+[3021.00s -> 3023.00s] looking for the automation
+[3023.00s -> 3025.00s] which help with that
+[3025.00s -> 3027.00s] so lastly
+[3027.00s -> 3029.00s] just feel free to
+[3029.00s -> 3031.00s] add our contact
+[3031.00s -> 3033.00s] we are linking or any channel
+[3033.00s -> 3035.00s] that you can find my name
+[3035.00s -> 3037.00s] and if you have any questions
+[3037.00s -> 3039.00s] later on just raise up
+[3039.00s -> 3041.00s] I'm happy to answer especially
+[3041.00s -> 3043.00s] for the life animals
+[3047.00s -> 3049.00s] thank you everyone
+[3049.00s -> 3051.00s] thank you very much to
+[3051.00s -> 3053.00s] this
+[3053.00s -> 3055.00s] thank you
+[3055.00s -> 3057.00s] so I think that's all for today
+[3057.00s -> 3059.00s] this session
+[3059.00s -> 3061.00s] thank you
+[3061.00s -> 3063.00s] all right thank you very much
+[3063.00s -> 3065.00s] thank you very much
+[3065.00s -> 3067.00s] thank you so much
+[3067.00s -> 3069.00s] thank you all for that time
+[3069.00s -> 3071.00s] with the support you made on this
+[3071.00s -> 3073.00s] we have a little gift for you
+[3073.00s -> 3075.00s] nice to meet you
