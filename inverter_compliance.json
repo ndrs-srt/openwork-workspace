@@ -1,0 +1,138 @@
+[
+  {
+    "model": "SolarEdge SE33.3K",
+    "iec_safety": "IEC-62109-1, IEC-62109-2",
+    "iec_emc": "EN/IEC 61000-6-1, EN/IEC 61000-6-2, EN/IEC 61000-6-3, EN/IEC 61000-6-4, EN 55011",
+    "web_link": "https://www.solaredge.com/products/inverters/three-phase-inverters",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SolarEdge PCS050",
+    "iec_safety": "IEC-62109 Part 1, Part 2",
+    "iec_emc": "EN/IEC 61000-6-1, EN/IEC 61000-6-2, EN/IEC 61000-6-3, EN/IEC 61000-6-4",
+    "web_link": "https://www.solaredge.com/products/inverters/three-phase-inverters",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLAX X3-PRO G2 20K",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.solaxpower.com/product/x3-pro-g2/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLAX X3-PRO G2 30K",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.solaxpower.com/product/x3-pro-g2/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLAX X3-ULT-20K",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.solaxpower.com/product/x3-ultra/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLAX X3-ULT-30K",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.solaxpower.com/product/x3-ultra/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLAX X3-MGA-40K-G2",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.solaxpower.com/product/x3-mega-g2/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLAX X3-MGA-50K-G2",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.solaxpower.com/product/x3-mega-g2/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "Solis S5-GR3P20K",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.ginlong.com/solis-s5-gr3p-series/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "Solis S6-GC3P30K03-NV-ND",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.ginlong.com/solis-s6-series/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "Solis S5-GC40K",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.ginlong.com/solis-s5-gc-series/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "Solis S6-GC3P40K04-NV-ND",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.ginlong.com/solis-s6-series/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "Solis S6-EH3P50K-H",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.ginlong.com/solis-s6-eh3p-series/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLINTEG M2HT-50K-150",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.solinteg.com/integ-m/",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SUNGROW SG20RT",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.sungrowpower.com/photovoltaic-inverters/sg20rt",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SUNGROW SG20RT-P2",
+    "iec_safety": "IEC 62109-1, IEC 62109-2",
+    "iec_emc": "IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4",
+    "web_link": "https://www.sungrowpower.com/photovoltaic-inverters/sg20rt-p2",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  },
+  {
+    "model": "SOLAR ENERGY Sunlight-20KTH",
+    "iec_safety": "N/A",
+    "iec_emc": "N/A",
+    "web_link": "N/A",
+    "where_to_buy": "N/A",
+    "price": "N/A"
+  }
+]
