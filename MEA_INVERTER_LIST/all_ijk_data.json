@@ -1,0 +1,1602 @@
+[
+  {
+    "row": 2,
+    "brand": "ABB/FIMER",
+    "model": "PVS-20-TL-SX",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/, SolarTraders https://solartraders.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 3,
+    "brand": "ABB/FIMER",
+    "model": "PVS-20-TL-SXD",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/, SolarTraders https://solartraders.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 4,
+    "brand": "ABB/FIMER",
+    "model": "PVS-20-TL-SY",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/, SolarTraders https://solartraders.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 5,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-20.0-TL-OUTD-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 6,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-20.0-TL-OUTD-S2-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 7,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-20.0-TL-OUTD-S2F-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 8,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-20.0-TL-OUTD-S2X-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 9,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-27.6-TL-OUTD-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 10,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-27.6-TL-OUTD-S2-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 11,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-27.6-TL-OUTD-S2F-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 12,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-27.6-TL-OUTD-S2X-400",
+    "link": "https://www.fimer.com/three-phase/trio-200276-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 13,
+    "brand": "ABB/FIMER",
+    "model": "PVS-30-TL-SX",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/, SolarTraders https://solartraders.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 14,
+    "brand": "ABB/FIMER",
+    "model": "PVS-30-TL-SY",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/, SolarTraders https://solartraders.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 15,
+    "brand": "ABB/FIMER",
+    "model": "PVS-33-TL-SI",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 16,
+    "brand": "ABB/FIMER",
+    "model": "PVS-33-TL-SX",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 17,
+    "brand": "ABB/FIMER",
+    "model": "PVS-33-TL-SY",
+    "link": "https://www.fimer.com/three-phase/pvs-203033-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 18,
+    "brand": "ABB/FIMER",
+    "model": "PVS-50-TL",
+    "link": "https://www.fimer.com/three-phase/pvs-5060-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 19,
+    "brand": "ABB/FIMER",
+    "model": "TRIO-50.0-TL-OUTD",
+    "link": "https://www.fimer.com/three-phase/trio-500-tl",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solaris Green Energy https://solaris.co.th/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 20,
+    "brand": "Afore",
+    "model": "BNT020KTL",
+    "link": "https://www.aforenergy.com/product/three-phase-string-inverter-3-25kw/",
+    "buy": "Electronmove https://electronmove.com/, Panpower https://panpower.eu/",
+    "price": "€1,530–€2,900 / ~฿57,000–฿108,000"
+  },
+  {
+    "row": 21,
+    "brand": "Afore",
+    "model": "AF50K-TH",
+    "link": "https://www.aforenergy.com/product/three-phase-hybrid-inverter-36-50kw/",
+    "buy": "Electronmove https://electronmove.com/, Alibaba https://www.alibaba.com/",
+    "price": "€1,530–€2,900 / ~฿57,000–฿108,000"
+  },
+  {
+    "row": 22,
+    "brand": "Afore",
+    "model": "BNT050KTL",
+    "link": "https://www.aforenergy.com/product/three-phase-string-inverter-36-60kw/",
+    "buy": "Panpower https://panpower.eu/, ReestartSolar https://reestartsolar.com/",
+    "price": "€1,530–€2,900 / ~฿57,000–฿108,000"
+  },
+  {
+    "row": 23,
+    "brand": "AOTAI",
+    "model": "ASP-50KTLC",
+    "link": "https://www.aotaiwelding.com/products/photovoltaic/inverter/asp_5060ktlc.html",
+    "buy": "Aotai New Energy (Facebook), Alibaba https://www.alibaba.com/",
+    "price": "$2,500–$3,500 / ~฿90,000–฿126,000"
+  },
+  {
+    "row": 24,
+    "brand": "ATESS",
+    "model": "HPS30",
+    "link": "https://www.atesspower.com/hybrid-inverter/hps30-50-100-120-150",
+    "buy": "Nastech Solar https://nastechsolar.com/, Alibaba https://www.alibaba.com/",
+    "price": "$5,500–$6,700 / ~฿198,000–฿241,000"
+  },
+  {
+    "row": 25,
+    "brand": "AUXSOL",
+    "model": "ASG-20TL-ZH",
+    "link": "https://www.auxsol.com/hybrid-inverter/hybrid-inverter-three-phase-5-20kw.html",
+    "buy": "Auxsol Official https://www.auxsol.com/",
+    "price": "$600–$3,500 / ~฿21,600–฿126,000"
+  },
+  {
+    "row": 26,
+    "brand": "AUXSOL",
+    "model": "ASN-20TL",
+    "link": "https://www.auxsol.com/all-in-one/2c91838092e5a9d001933e79844700fc.html",
+    "buy": "Auxsol Official https://www.auxsol.com/",
+    "price": "$600–$3,500 / ~฿21,600–฿126,000"
+  },
+  {
+    "row": 27,
+    "brand": "AUXSOL",
+    "model": "ASN-30TL-G2",
+    "link": "https://www.auxsol.com/all-in-one/on-grid-three-phase-30kw-eng.html",
+    "buy": "Auxsol Official https://www.auxsol.com/",
+    "price": "$600–$3,500 / ~฿21,600–฿126,000"
+  },
+  {
+    "row": 28,
+    "brand": "AUXSOL",
+    "model": "ASN-40TL",
+    "link": "https://www.auxsol.com/all-in-one/three-phase-on-grid-33-40kw-eng.html",
+    "buy": "Auxsol Official https://www.auxsol.com/",
+    "price": "$600–$3,500 / ~฿21,600–฿126,000"
+  },
+  {
+    "row": 29,
+    "brand": "AUXSOL",
+    "model": "ASN-50TL-G2",
+    "link": "https://www.auxsol.com/cl-inverter/on-grid-inverter-three-phase-50-80kw-eng.html",
+    "buy": "Auxsol Official https://www.auxsol.com/",
+    "price": "$600–$3,500 / ~฿21,600–฿126,000"
+  },
+  {
+    "row": 30,
+    "brand": "Bonaire Energia",
+    "model": "Bonaire XG50KTR",
+    "link": "N/A (Bonaire Energia / INVT Solar OEM; no public product page)",
+    "buy": "INVT Solar (OEM); Available via ENF Solar, SolarTraders",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 31,
+    "brand": "CHINT POWER",
+    "model": "SCA20K-T-EU",
+    "link": "https://www.chintpowersystems.com/product/sca5-25k-t-eu/",
+    "buy": "ENF Solar https://www.enfsolar.com/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "$1,500–$2,200 / ~฿54,000–฿79,000"
+  },
+  {
+    "row": 32,
+    "brand": "CHUPHOTIC",
+    "model": "STT-20KTL-P",
+    "link": "https://www.sunways.com/products/solar-inverter/stt-4-25ktl-p/",
+    "buy": "CHUPHOTIC Thailand; Sunways (OEM); Available via Solar-Thailand",
+    "price": "~฿25,000–฿35,000"
+  },
+  {
+    "row": 33,
+    "brand": "CLEANLINE",
+    "model": "CL 30KTL-P3",
+    "link": "https://www.thaiwatsadu.com/",
+    "buy": "Thai Watsadu; HomePro; Thai installer networks",
+    "price": "~฿45,000–฿65,000 (ThaiWatsadu)"
+  },
+  {
+    "row": 34,
+    "brand": "Delta",
+    "model": "Delta 20000T",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 35,
+    "brand": "DELTA",
+    "model": "RPI-M20A",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 36,
+    "brand": "DELTA",
+    "model": "M50A_260",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 37,
+    "brand": "DELTA",
+    "model": "RPI M50A_020",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 38,
+    "brand": "DELTA",
+    "model": "RPI M50A_021",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 39,
+    "brand": "DELTA",
+    "model": "RPI M50A_022",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 40,
+    "brand": "DELTA",
+    "model": "RPI M50A_120",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 41,
+    "brand": "DELTA",
+    "model": "RPI M50A_121",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 42,
+    "brand": "DELTA",
+    "model": "RPI M50A_122",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 43,
+    "brand": "DELTA",
+    "model": "RPI M50A_12s",
+    "link": "https://www.deltathailand.com/PV-Inverter",
+    "buy": "Delta Thailand https://www.deltathailand.com/, Europe-SolarStore https://europe-solarstore.com/",
+    "price": "€2,073–€5,000 / ~฿78,000–฿190,000"
+  },
+  {
+    "row": 44,
+    "brand": "Deye",
+    "model": "SUN-20K-G05",
+    "link": "https://www.deyeinverter.com/product/three-phase-string-inverter/sun18-20-25kg04-1825kw-three-phase-2-mppt-237.html",
+    "buy": "Shopee https://shopee.co.th/, Solar-Thailand https://solar-thailand.co.th/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 45,
+    "brand": "Deye",
+    "model": "SUN-20K-SG05LP3-EU-SM2",
+    "link": "https://www.deyeinverter.com/product/three-phase-hybrid-inverter/sun-20-25k-sg01hp3-eu-bm3-2025kw-three-phase-hybrid-140.html",
+    "buy": "Shopee https://shopee.co.th/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 46,
+    "brand": "Deye",
+    "model": "SUN-30K-G04",
+    "link": "https://www.deyeinverter.com/product/three-phase-string-inverter/sun30-33-36kg04-3036kw-three-phase-2-mppt.html",
+    "buy": "Shopee https://shopee.co.th/, Solar-Thailand https://solar-thailand.co.th/, R3 Solar Cell",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 47,
+    "brand": "Deye",
+    "model": "SUN-30K-SG01HP3-EU-BM3",
+    "link": "https://www.deyeinverter.com/product/three-phase-hybrid-inverter/sun-29-9-30-35-40-50k-sg01hp3-eu-bm3-bm4-29950kw-three-phase-hybrid.html",
+    "buy": "Shopee https://shopee.co.th/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 48,
+    "brand": "Deye",
+    "model": "SUN-30K-SG02HP3-EU-AM3",
+    "link": "https://www.deyeinverter.com/product/three-phase-hybrid-inverter/sun-30k-sg02hp3-eu-am3-30kw-three-phase-hybrid-142.html",
+    "buy": "Shopee https://shopee.co.th/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 49,
+    "brand": "Deye",
+    "model": "SUN-40K-G04",
+    "link": "https://deye.com/Inverter/Three-Phase-String-Inverter/",
+    "buy": "Deye Thailand; Solar-Thailand; Shopee/Lazada",
+    "price": "~฿35,000–฿55,000"
+  },
+  {
+    "row": 50,
+    "brand": "Deye",
+    "model": "SUN-40K-SG01HP3-EU-BM4",
+    "link": "https://www.deyeinverter.com/product/three-phase-hybrid-inverter/sun-29-9-30-35-40-50k-sg01hp3-eu-bm3-bm4-29950kw-three-phase-hybrid.html",
+    "buy": "Shopee https://shopee.co.th/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 51,
+    "brand": "Deye",
+    "model": "SUN-50K-G04",
+    "link": "https://www.deyeinverter.com/product/three-phase-string-inverter/sun40-45-50kg04-4050kw-three-phase-4-mppt.html",
+    "buy": "Shopee https://shopee.co.th/, Solar-Thailand https://solar-thailand.co.th/, R3 Solar Cell",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 52,
+    "brand": "Deye",
+    "model": "SUN-50K-SG01HP3-EU-BM4",
+    "link": "https://www.deyeinverter.com/product/three-phase-hybrid-inverter/sun-29-9-30-35-40-50k-sg01hp3-eu-bm3-bm4-29950kw-three-phase-hybrid.html",
+    "buy": "Shopee https://shopee.co.th/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿125,000–฿219,000"
+  },
+  {
+    "row": 53,
+    "brand": "EVE",
+    "model": "EP20KTR-2M3P",
+    "link": "N/A (Only MEA/PEA approved list; no official product page)",
+    "buy": "MEA/PEA registered; EVE Energy Co., Ltd (B2B only)",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 54,
+    "brand": "EVE",
+    "model": "EP30KTR-2M3P",
+    "link": "N/A (Only MEA/PEA approved list; no official product page)",
+    "buy": "MEA/PEA registered; EVE Energy Co., Ltd (B2B only)",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 55,
+    "brand": "EVE",
+    "model": "EP50KTR-2M3P",
+    "link": "N/A (Only MEA/PEA approved list; no official product page)",
+    "buy": "MEA/PEA registered; EVE Energy Co., Ltd (B2B only)",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 56,
+    "brand": "FOX ESS",
+    "model": "P3-Pro-20.0",
+    "link": "https://www.fox-ess.com/product/p3-pro/",
+    "buy": "Eco-Asset https://eco-assemble.com/, SunBeam369 https://sunbeam369.com/",
+    "price": "€1,948–€3,000 / ~฿73,000–฿112,000"
+  },
+  {
+    "row": 57,
+    "brand": "FOX ESS",
+    "model": "T20-G3",
+    "link": "https://www.fox-ess.com/product/t-pro/",
+    "buy": "Eco-Asset https://eco-assemble.com/, Fox ESS Official https://www.fox-ess.com/",
+    "price": "€1,948–€3,000 / ~฿73,000–฿112,000"
+  },
+  {
+    "row": 58,
+    "brand": "FOX ESS",
+    "model": "P3-Pro-30.0",
+    "link": "https://www.fox-ess.com/product/p3-pro/",
+    "buy": "Eco-Asset https://eco-assemble.com/, SunBeam369 https://sunbeam369.com/",
+    "price": "€1,948–€3,000 / ~฿73,000–฿112,000"
+  },
+  {
+    "row": 59,
+    "brand": "FOX ESS",
+    "model": "T30-M",
+    "link": "https://www.fox-ess.com/product/t-pro/",
+    "buy": "Eco-Asset https://eco-assemble.com/, Fox ESS Official https://www.fox-ess.com/",
+    "price": "€1,948–€3,000 / ~฿73,000–฿112,000"
+  },
+  {
+    "row": 60,
+    "brand": "FOX ESS",
+    "model": "V50",
+    "link": "https://www.fox-ess.com/product/v-series/",
+    "buy": "Fox ESS Official https://www.fox-ess.com/",
+    "price": "€1,948–€3,000 / ~฿73,000–฿112,000"
+  },
+  {
+    "row": 61,
+    "brand": "FRECON",
+    "model": "F025i-4PVb",
+    "link": "https://www.frecon.com.cn/",
+    "buy": "FRECON Electric (Shenzhen); Chinese distributors",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 62,
+    "brand": "FRONIUS",
+    "model": "Fronius Symo 20.0-3-M",
+    "link": "https://www.fronius.com/en/solar-energy/installers-partners/products/all-products/inverters/symo-200-to-500",
+    "buy": "Electronmove https://electronmove.com/, Energy Freedom https://energyfreedom.com.au/, Wccsolar https://wccsolar.com/",
+    "price": "฿110,000–฿155,000"
+  },
+  {
+    "row": 63,
+    "brand": "FRONIUS",
+    "model": "Fronius Eco 27.0-3-S",
+    "link": "https://www.fronius.com/en/solar-energy/installers-partners/products/all-products/inverters/eco-250-to-270",
+    "buy": "Electronmove https://electronmove.com/, Wccsolar https://wccsolar.com/, Lirik Solar",
+    "price": "฿110,000–฿155,000"
+  },
+  {
+    "row": 64,
+    "brand": "GOODWE",
+    "model": "GW20K-ET-L-G10",
+    "link": "https://en.goodwe.com/et-lv-series",
+    "buy": "QES Energy https://www.qes.co.th/, Solar Touch https://solartouch.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿49,000–฿157,400"
+  },
+  {
+    "row": 65,
+    "brand": "GOODWE",
+    "model": "GW20K-SDT-20",
+    "link": "https://en.goodwe.com/sdt-series",
+    "buy": "QES Energy https://www.qes.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿49,000–฿157,400"
+  },
+  {
+    "row": 66,
+    "brand": "GOODWE",
+    "model": "GW30K-MT",
+    "link": "https://en.goodwe.com/mt-series",
+    "buy": "QES Energy https://www.qes.co.th/, Solar Touch https://solartouch.co.th/",
+    "price": "฿49,000–฿157,400"
+  },
+  {
+    "row": 67,
+    "brand": "GOODWE",
+    "model": "GW30K-SDT-C30",
+    "link": "https://en.goodwe.com/sdt-series",
+    "buy": "QES Energy https://www.qes.co.th/, Solar Touch https://solartouch.co.th/",
+    "price": "฿49,000–฿157,400"
+  },
+  {
+    "row": 68,
+    "brand": "GOODWE",
+    "model": "GW50K-ET-10",
+    "link": "https://en.goodwe.com/et-series",
+    "buy": "QES Energy https://www.qes.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿49,000–฿157,400"
+  },
+  {
+    "row": 69,
+    "brand": "GOODWE",
+    "model": "GW50K-SDT-C30",
+    "link": "https://en.goodwe.com/sdt-series",
+    "buy": "QES Energy https://www.qes.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿49,000–฿157,400"
+  },
+  {
+    "row": 70,
+    "brand": "GOODWE",
+    "model": "GW50KS-MT",
+    "link": "https://en.goodwe.com/mt-series",
+    "buy": "QES Energy https://www.qes.co.th/, Shopee https://shopee.co.th/",
+    "price": "฿49,000–฿157,400"
+  },
+  {
+    "row": 71,
+    "brand": "Growatt",
+    "model": "Growatt 20000TL3-HE-TH",
+    "link": "https://en.growatt.com/products/mid-11-30ktl3-xh",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, JPS Solar",
+    "price": "฿77,000–฿168,000"
+  },
+  {
+    "row": 72,
+    "brand": "Growatt",
+    "model": "Growatt 20000UE",
+    "link": "https://en.growatt.com/products",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿77,000–฿168,000"
+  },
+  {
+    "row": 73,
+    "brand": "Growatt",
+    "model": "MID 20KTL3-X",
+    "link": "https://en.growatt.com/products/mid-15-30ktl3-x-x2",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solar Tech Center https://solartech-center.com/",
+    "price": "฿77,000–฿168,000"
+  },
+  {
+    "row": 74,
+    "brand": "Growatt",
+    "model": "Growatt 40000TL3-NS",
+    "link": "https://en.growatt.com/products/mid-30-50ktl3-x2",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, JPS Solar",
+    "price": "฿77,000–฿168,000"
+  },
+  {
+    "row": 75,
+    "brand": "Growatt",
+    "model": "MID 40KTL3-X",
+    "link": "https://en.growatt.com/products/mid-30-50ktl3-x2",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Solar Tech Center https://solartech-center.com/, JPS Solar",
+    "price": "฿77,000–฿168,000"
+  },
+  {
+    "row": 76,
+    "brand": "Haier",
+    "model": "HS3P-20KA",
+    "link": "https://www.haier.com/newenergy/",
+    "buy": "Haier Energy Technology; ENF Solar",
+    "price": "~¥5,000–¥8,000 / ~฿25,000–฿40,000"
+  },
+  {
+    "row": 77,
+    "brand": "Haier",
+    "model": "HS3P-50KA",
+    "link": "https://www.haier.com/newenergy/",
+    "buy": "Haier Energy Technology; ENF Solar",
+    "price": "~¥10,000–¥15,000 / ~฿50,000–฿75,000"
+  },
+  {
+    "row": 78,
+    "brand": "hoymiles",
+    "model": "HIT-20L-G3",
+    "link": "https://www.hoymiles.com/products/hit-series/",
+    "buy": "Hoymiles Official https://www.hoymiles.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 79,
+    "brand": "hoymiles",
+    "model": "HIT-20L-G3S",
+    "link": "https://www.hoymiles.com/products/hit-series/",
+    "buy": "Hoymiles Official https://www.hoymiles.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 80,
+    "brand": "hoymiles",
+    "model": "HiOne-20T-G3",
+    "link": "https://www.hoymiles.com/products/hione-series/",
+    "buy": "Hoymiles Official https://www.hoymiles.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 81,
+    "brand": "Huawei",
+    "model": "SUN2000-20K-MB0",
+    "link": "https://solar.huawei.com/en/products/sun2000-12-15-17-20-25k-mb0/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/, Solaris https://solaris.co.th/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 82,
+    "brand": "Huawei",
+    "model": "SUN2000-20KTL",
+    "link": "https://solar.huawei.com/en/products/sun2000-20-40ktl-m3/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 83,
+    "brand": "Huawei",
+    "model": "SUN2000-20KTL-M0",
+    "link": "https://solar.huawei.com/en/products/sun2000-20-40ktl-m0/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 84,
+    "brand": "Huawei",
+    "model": "SUN2000-20KTL-M2",
+    "link": "https://solar.huawei.com/en/products/sun2000-20-40ktl-m2/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 85,
+    "brand": "Huawei",
+    "model": "SUN2000-20KTL-M5",
+    "link": "https://solar.huawei.com/en/products/sun2000-20-40ktl-m5/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 86,
+    "brand": "HUAWEI",
+    "model": "SUN2000-30K-MC0",
+    "link": "https://solar.huawei.com/en/products/sun2000-30-40k-mc0/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 87,
+    "brand": "Huawei",
+    "model": "SUN2000-30KTL-M3",
+    "link": "https://solar.huawei.com/en/products/sun2000-20-40ktl-m3/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 88,
+    "brand": "Huawei",
+    "model": "SUN2000-33KTL",
+    "link": "https://solar.huawei.com/en/products/sun2000-20-40ktl/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Double N Solar",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 89,
+    "brand": "Huawei",
+    "model": "SUN2000-36KTL",
+    "link": "https://solar.huawei.com/en/products/sun2000-36ktl/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Double N Solar",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 90,
+    "brand": "Huawei",
+    "model": "SUN2000-36KTL-M3",
+    "link": "https://solar.huawei.com/en/products/sun2000-36ktl-m3/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Double N Solar",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 91,
+    "brand": "HUAWEI",
+    "model": "SUN2000-40K-MC0",
+    "link": "https://solar.huawei.com/en/products/sun2000-30-40k-mc0/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 92,
+    "brand": "Huawei",
+    "model": "SUN2000-40KTL-M3",
+    "link": "https://solar.huawei.com/en/products/sun2000-20-40ktl-m3/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 93,
+    "brand": "Huawei",
+    "model": "SUN2000-42KTL",
+    "link": "https://solar.huawei.com/en/products/sun2000-42ktl/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Double N Solar",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 94,
+    "brand": "HUAWEI",
+    "model": "SUN2000-50K-MC0",
+    "link": "https://solar.huawei.com/en/products/sun2000-50k-mc0/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 95,
+    "brand": "Huawei",
+    "model": "SUN2000-50KTL-M3",
+    "link": "https://solar.huawei.com/en/products/sun2000-50ktl-m3/",
+    "buy": "Supersolarz https://www.supersolarz.com/, Thaisolarsystem https://www.thaisolarsystem.com/",
+    "price": "฿69,000–฿132,000"
+  },
+  {
+    "row": 96,
+    "brand": "HYXiPOWER",
+    "model": "HYX-H25K-HT",
+    "link": "https://webfile.hyxipower.com/soft/20251120/DS_HYX-H(15-25)K-HT_Datasheet_V1.4-20251118_EU.pdf",
+    "buy": "HYXiPOWER Official https://www.hyxipower.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 97,
+    "brand": "HYXiPOWER",
+    "model": "HYX-S30K-T",
+    "link": "https://webfile.hyxipower.com/soft/20251120/DS_HYX-S(30-50)K-T_Datasheet_V1.4-20251118_EU.pdf",
+    "buy": "HYXiPOWER Official https://www.hyxipower.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 98,
+    "brand": "HYXiPOWER",
+    "model": "HYX-S50K-T",
+    "link": "https://webfile.hyxipower.com/soft/20251120/DS_HYX-S(30-50)K-T_Datasheet_V1.4-20251118_EU.pdf",
+    "buy": "HYXiPOWER Official https://www.hyxipower.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 99,
+    "brand": "INVT",
+    "model": "iMars BG20KTR",
+    "link": "https://www.invt.com/products/solar-inverters",
+    "buy": "INVT Official https://www.invt.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 100,
+    "brand": "INVT",
+    "model": "iMars BG30KTR",
+    "link": "https://www.invt.com/products/solar-inverters",
+    "buy": "INVT Official https://www.invt.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 101,
+    "brand": "INVT",
+    "model": "iMars BG50KTR",
+    "link": "https://www.invt.com/products/solar-inverters",
+    "buy": "INVT Official https://www.invt.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 102,
+    "brand": "ISUNA",
+    "model": "Isuna 20000T",
+    "link": "https://www.sinexcel-isuna.com/Products/",
+    "buy": "ISUNA/Sinexcel Official; ENF Solar; fuseco.com.au",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 103,
+    "brand": "JFY",
+    "model": "SUNTREE 20000TL",
+    "link": "https://www.jfrgroup.com/product/suntree-tl/",
+    "buy": "JFY Tech; ENF Solar; International Energy Solutions",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 104,
+    "brand": "JFY",
+    "model": "SUNTREE 30000TL",
+    "link": "https://www.jfrgroup.com/product/suntree-tl/",
+    "buy": "JFY Tech; ENF Solar; International Energy Solutions",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 105,
+    "brand": "KACO",
+    "model": "Blueplanet 20.0 TL3 M2 WM | OD IIG0",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/blueplanet-gridsave",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 106,
+    "brand": "KACO",
+    "model": "Powador 30.0 TL3 - M – INT",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/powador",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 107,
+    "brand": "KACO",
+    "model": "Powador 30.0 TL3 - XL - F - | INT",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/powador",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 108,
+    "brand": "KACO",
+    "model": "Powador 30.0 TL3 - XL - F - | SPD 1+2",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/powador",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 109,
+    "brand": "KACO",
+    "model": "Powador 30.0 TL3 - XL - INT | - SPD 1+2",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/powador",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 110,
+    "brand": "KACO",
+    "model": "Powador 30.0 TL3 - XL – INT",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/powador",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 111,
+    "brand": "KACO",
+    "model": "Powador 39.0 TL3-XL-INT",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/powador",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 112,
+    "brand": "KACO",
+    "model": "Powador 60.0 TL3-XL-INT",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/powador",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 113,
+    "brand": "KACO",
+    "model": "Blueplanet 50.0 TL3 M1 WM | OD IIGM",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/blueplanet-gridsave",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 114,
+    "brand": "KACO",
+    "model": "Blueplanet 50.0 TL3 M1 WM | OD IIGX",
+    "link": "https://www.kaco-newenergy.com/en/products/solar-inverters/blueplanet-gridsave",
+    "buy": "KACO Official https://www.kaco-newenergy.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 115,
+    "brand": "KEHUA TECH",
+    "model": "SPI20K-B",
+    "link": "https://www.kehua.com/product/solar-inverter/",
+    "buy": "Kehua Tech Official https://www.kehua.com/download/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 116,
+    "brand": "KOSTAL",
+    "model": "PIKO 20",
+    "link": "https://www.kostal.com/en/solar-electrics/solar-inverters/piko-20",
+    "buy": "KOSTAL Official https://www.kostal.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 117,
+    "brand": "KSTAR",
+    "model": "BluE-20KT-M1",
+    "link": "https://www.kstar.com/download?category=solar",
+    "buy": "KSTAR/KFR Power; ENF Solar",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 118,
+    "brand": "KSTAR",
+    "model": "KSG-20K",
+    "link": "https://www.kstar.com/download?category=solar",
+    "buy": "KSTAR/KFR Power; ENF Solar",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 119,
+    "brand": "KSTAR",
+    "model": "KAC50DP",
+    "link": "https://www.kfrpower.com/product/kac50dp/",
+    "buy": "KSTAR/KFR Power; ENF Solar",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 120,
+    "brand": "KSTAR",
+    "model": "KAC50DP2",
+    "link": "https://www.kfrpower.com/product/kac50dp2/",
+    "buy": "KSTAR/KFR Power; ENF Solar",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 121,
+    "brand": "KSTAR",
+    "model": "KSG-50K",
+    "link": "https://www.kfrpower.com/product/ksg-50k/",
+    "buy": "KSTAR/KFR Power; ENF Solar",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 122,
+    "brand": "LANPWR",
+    "model": "LANPWR 20000T",
+    "link": "https://th.lanpwr.com/",
+    "buy": "LANPWR Thailand https://th.lanpwr.com/; Shopee/Lazada",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 123,
+    "brand": "LANPWR",
+    "model": "UHC 50KT-U2",
+    "link": "https://th.lanpwr.com/",
+    "buy": "LANPWR Thailand https://th.lanpwr.com/; Shopee/Lazada",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 124,
+    "brand": "LEONICS",
+    "model": "APOLLO GTP-4020TL",
+    "link": "https://www.leonics.com/product/renewable/inverter/",
+    "buy": "LEONICS Official https://www.leonics.com/ (Thai company)",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 125,
+    "brand": "LESSO",
+    "model": "LSBH20KTL3-OC1",
+    "link": "https://en.lesso.com/",
+    "buy": "China LESSO Group https://en.lesso.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 126,
+    "brand": "Litto",
+    "model": "LT 20000HD",
+    "link": "https://www.litto.com.cn/",
+    "buy": "Litto Official; ELBA-ENERGA; EOS Energia; Thai distributors",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 127,
+    "brand": "Midea",
+    "model": "MEI2-HT20H",
+    "link": "https://www.mideahvac.fr/wp-content/uploads/sites/2/2026/05/26FPM_FR_PowerX1-Tri.pdf",
+    "buy": "Midea Thailand; Solar-Thailand; Solaris",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 128,
+    "brand": "Midea",
+    "model": "MEI2-HT30H",
+    "link": "https://www.mideahvac.fr/wp-content/uploads/sites/2/2026/05/26FPM_FR_PowerX1-Tri.pdf",
+    "buy": "Midea Thailand; Solar-Thailand; Solaris",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 129,
+    "brand": "PEC",
+    "model": "PCS-VACON-3-20G",
+    "link": "N/A (PEC Group Thailand; VACON drive-based inverter; B2B only)",
+    "buy": "PEC Group Thailand (B2B)",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 130,
+    "brand": "Pixii",
+    "model": "PowerShaper 2 ACU OD AUS | Pole Top",
+    "link": "https://www.pixii.com/product-family/powershaper",
+    "buy": "Pixii Official https://www.pixii.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 131,
+    "brand": "PrimeVOLT",
+    "model": "PV-20000T-U",
+    "link": "https://primevolt.com.tw/product/three-phase-on-grid-pv-inverter/",
+    "buy": "PrimeVOLT Taiwan https://primevolt.com.tw/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 132,
+    "brand": "PSI",
+    "model": "P250",
+    "link": "https://psienergy.co.th/",
+    "buy": "PSI Energy Thailand https://psienergy.co.th/; Shopee",
+    "price": "~฿40,000–฿55,000 (Shopee)"
+  },
+  {
+    "row": 133,
+    "brand": "PSI",
+    "model": "P300",
+    "link": "https://psienergy.co.th/",
+    "buy": "PSI Energy Thailand https://psienergy.co.th/; Shopee",
+    "price": "~฿50,000–฿65,000"
+  },
+  {
+    "row": 134,
+    "brand": "PSI",
+    "model": "P500",
+    "link": "https://psienergy.co.th/",
+    "buy": "PSI Energy Thailand https://psienergy.co.th/; Shopee",
+    "price": "~฿65,000–฿90,000"
+  },
+  {
+    "row": 135,
+    "brand": "RENAC",
+    "model": "NAC33K-DT",
+    "link": "https://www.renac.com/product/three-phase-string-inverter/",
+    "buy": "RENAC Official https://www.renac.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 136,
+    "brand": "SAJ",
+    "model": "H2-20K-LT2",
+    "link": "https://www.saj-electric.com/hubfs/Download/H2%208-20K-LT2.pdf",
+    "buy": "SAJ Electric Official https://www.saj-electric.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 137,
+    "brand": "SAJ",
+    "model": "CH2-50K-T6",
+    "link": "https://www.saj-electric.com/services-support-download",
+    "buy": "SAJ Electric Official https://www.saj-electric.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 138,
+    "brand": "SAJ",
+    "model": "R6-50K-T4-32",
+    "link": "https://www.saj-electric.com/services-support-download",
+    "buy": "SAJ Electric Official https://www.saj-electric.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 139,
+    "brand": "Schneider Electric",
+    "model": "Conext CL 20000 E",
+    "link": "https://www.se.com/ww/en/product-range/2250-solar-inverters/",
+    "buy": "Schneider Official https://www.se.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 140,
+    "brand": "Schneider Electric",
+    "model": "Conext CL 25000 E",
+    "link": "https://www.se.com/ww/en/product-range/2250-solar-inverters/",
+    "buy": "Schneider Official https://www.se.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 141,
+    "brand": "Schneider Electric",
+    "model": "Conext CL36",
+    "link": "https://www.se.com/ww/en/product-range/2250-solar-inverters/",
+    "buy": "Schneider Official https://www.se.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 142,
+    "brand": "Sigenergy",
+    "model": "SigenStor EC 20.0 TP",
+    "link": "https://www.sigenergy.com/products/hybrid-inverter",
+    "buy": "Sigenergy Official https://www.sigenergy.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 143,
+    "brand": "Sigenergy",
+    "model": "SigenStor EC 25.0 TP",
+    "link": "https://www.sigenergy.com/products/hybrid-inverter",
+    "buy": "Sigenergy Official https://www.sigenergy.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 144,
+    "brand": "Sigenergy",
+    "model": "Sigen PV 50M1",
+    "link": "https://www.sigenergy.com/products/business-inverter",
+    "buy": "Sigenergy Official https://www.sigenergy.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 145,
+    "brand": "Sigenergy",
+    "model": "Sigen PV 50M1-HYA",
+    "link": "https://www.sigenergy.com/products/business-inverter",
+    "buy": "Sigenergy Official https://www.sigenergy.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 146,
+    "brand": "Sigenergy",
+    "model": "Sigen PV 50M1-HYB",
+    "link": "https://www.sigenergy.com/products/business-inverter",
+    "buy": "Sigenergy Official https://www.sigenergy.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 147,
+    "brand": "SINENG",
+    "model": "SN20PT",
+    "link": "https://en.si-neng.com/product/string-inverter/",
+    "buy": "Sineng Electric https://en.si-neng.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 148,
+    "brand": "SINENG",
+    "model": "SN30PT",
+    "link": "https://en.si-neng.com/product/string-inverter/",
+    "buy": "Sineng Electric https://en.si-neng.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 149,
+    "brand": "SINENG",
+    "model": "SN50PT",
+    "link": "https://en.si-neng.com/product/string-inverter/",
+    "buy": "Sineng Electric https://en.si-neng.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 150,
+    "brand": "Sinexcel",
+    "model": "PMG2-50K",
+    "link": "https://www.sinexcel.com/product/",
+    "buy": "Sinexcel Official https://www.sinexcel.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 151,
+    "brand": "SMA",
+    "model": "STP 20-50",
+    "link": "https://www.sma-solar.com/en/products/solar-inverters/sunny-tripower-x-2050",
+    "buy": "Techtron https://www.techtron.co.th/, Sunnergy https://www.sunnergytech.com/, SelfConcept https://shop.selfconcept-onlineshop.com/",
+    "price": "฿125,000–฿273,200"
+  },
+  {
+    "row": 152,
+    "brand": "SMA",
+    "model": "STP 20000TL-30",
+    "link": "https://www.sma-solar.com/en/products/solar-inverters/sunny-tripower-20000tl-30",
+    "buy": "Techtron https://www.techtron.co.th/, Sunnergy https://www.sunnergytech.com/",
+    "price": "฿125,000–฿273,200"
+  },
+  {
+    "row": 153,
+    "brand": "SMA",
+    "model": "STP 20000TLEE-10",
+    "link": "https://www.sma-solar.com/en/products/solar-inverters/sunny-tripower-20000tlee-10",
+    "buy": "Techtron https://www.techtron.co.th/, Sunnergy https://www.sunnergytech.com/",
+    "price": "฿125,000–฿273,200"
+  },
+  {
+    "row": 154,
+    "brand": "SMA",
+    "model": "STP 25-50",
+    "link": "https://www.sma-solar.com/en/products/solar-inverters/sunny-tripower-x-2550",
+    "buy": "Techtron https://www.techtron.co.th/, SelfConcept https://shop.selfconcept-onlineshop.com/",
+    "price": "฿125,000–฿273,200"
+  },
+  {
+    "row": 155,
+    "brand": "SMA",
+    "model": "STP 25000TL-30",
+    "link": "https://www.sma-solar.com/en/products/solar-inverters/sunny-tripower-25000tl-30",
+    "buy": "Techtron https://www.techtron.co.th/, Sunnergy https://www.sunnergytech.com/",
+    "price": "฿125,000–฿273,200"
+  },
+  {
+    "row": 156,
+    "brand": "SMA",
+    "model": "STP 50-40",
+    "link": "https://www.sma-solar.com/en/products/solar-inverters/sunny-tripower-core1-stp-50-40",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Techtron https://www.techtron.co.th/",
+    "price": "฿125,000–฿273,200"
+  },
+  {
+    "row": 157,
+    "brand": "SMA",
+    "model": "STP 50-41",
+    "link": "https://www.sma-solar.com/en/products/solar-inverters/sunny-tripower-core1-stp-50-41",
+    "buy": "Solar-Thailand https://solar-thailand.co.th/, Techtron https://www.techtron.co.th/",
+    "price": "฿125,000–฿273,200"
+  },
+  {
+    "row": 158,
+    "brand": "SOFAR",
+    "model": "SOFAR 20KTLX-G3",
+    "link": "https://www.sofarsolar.com/products/sofar-20ktlx-g3",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, Shopee https://shopee.co.th/",
+    "price": "฿32,000–฿85,000"
+  },
+  {
+    "row": 159,
+    "brand": "SOFAR",
+    "model": "SOFAR 20KTLX2-G3P",
+    "link": "https://www.sofarsolar.com/products/sofar-20ktlx2-g3p",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, Shopee https://shopee.co.th/",
+    "price": "฿32,000–฿85,000"
+  },
+  {
+    "row": 160,
+    "brand": "SOFAR",
+    "model": "SOFAR 30KTLX-G3",
+    "link": "https://www.sofarsolar.com/products/sofar-30ktlx-g3",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, Shopee https://shopee.co.th/",
+    "price": "฿32,000–฿85,000"
+  },
+  {
+    "row": 161,
+    "brand": "SOFAR",
+    "model": "SOFAR 50KTLX-G3",
+    "link": "https://www.sofarsolar.com/products/sofar-50ktlx-g3",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, Shopee https://shopee.co.th/",
+    "price": "฿32,000–฿85,000"
+  },
+  {
+    "row": 162,
+    "brand": "Solar Edge",
+    "model": "SE27.6K",
+    "link": "https://www.solaredge.com/products/inverters/single-phase-inverters",
+    "buy": "SolarEdge Official https://www.solaredge.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 163,
+    "brand": "Solar Edge",
+    "model": "SE30K",
+    "link": "https://www.solaredge.com/products/inverters/three-phase-inverters",
+    "buy": "SolarEdge Official https://www.solaredge.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 164,
+    "brand": "Solar Edge",
+    "model": "SE33.3K",
+    "link": "https://www.solaredge.com/products/inverters/three-phase-inverters",
+    "buy": "SolarEdge Official https://www.solaredge.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 165,
+    "brand": "Solar Edge",
+    "model": "PCS050",
+    "link": "https://www.solaredge.com/products/inverters/three-phase-inverters",
+    "buy": "SolarEdge Official https://www.solaredge.com/",
+    "price": "N/A"
+  },
+  {
+    "row": 166,
+    "brand": "SOLAR ENERGY",
+    "model": "Sunlight-20KTH",
+    "link": "https://shopee.co.th/search?keyword=SOLAR+ENERGY+SUNLIGHT-20KTH",
+    "buy": "PEA Smart List; Shopee https://shopee.co.th/; Lazada https://www.lazada.co.th/; Thai installers",
+    "price": "N/A"
+  },
+  {
+    "row": 167,
+    "brand": "SOLAX POWER",
+    "model": "X3-PRO-20K-G2",
+    "link": "https://th.solaxpower.com/x3-pro-g2",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, SolaX Official https://th.solaxpower.com/",
+    "price": "฿23,540–฿47,000"
+  },
+  {
+    "row": 168,
+    "brand": "SOLAX POWER",
+    "model": "X3-ULT-20K",
+    "link": "https://th.solaxpower.com/x3-ult",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, SolaX Official https://th.solaxpower.com/",
+    "price": "฿23,540–฿47,000"
+  },
+  {
+    "row": 169,
+    "brand": "SOLAX POWER",
+    "model": "X3-PRO-30K-G2",
+    "link": "https://th.solaxpower.com/x3-pro-g2",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, SolaX Official https://th.solaxpower.com/",
+    "price": "฿23,540–฿47,000"
+  },
+  {
+    "row": 170,
+    "brand": "SOLAX POWER",
+    "model": "X3-ULT-30K",
+    "link": "https://th.solaxpower.com/x3-ult",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, SolaX Official https://th.solaxpower.com/",
+    "price": "฿23,540–฿47,000"
+  },
+  {
+    "row": 171,
+    "brand": "SOLAX POWER",
+    "model": "X3-MGA-40K-G2",
+    "link": "https://th.solaxpower.com/x3-mga",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, SolaX Official https://th.solaxpower.com/",
+    "price": "฿23,540–฿47,000"
+  },
+  {
+    "row": 172,
+    "brand": "SOLAX POWER",
+    "model": "X3-MGA-50K-G2",
+    "link": "https://th.solaxpower.com/x3-mga",
+    "buy": "Thaisolarsystem https://www.thaisolarsystem.com/, SolaX Official https://th.solaxpower.com/",
+    "price": "฿23,540–฿47,000"
+  },
+  {
+    "row": 173,
+    "brand": "SOLINTEG",
+    "model": "M2HT-50K-150",
+    "link": "https://www.solinteg.com/m2ht",
+    "buy": "Alibaba https://www.alibaba.com/, SOLINTEG Official https://www.solinteg.com/",
+    "price": "฿81,000–฿88,000"
+  },
+  {
+    "row": 174,
+    "brand": "solis",
+    "model": "S5-GR3P20K",
+    "link": "https://www.ginlong.com/solis-s5-gr3p-series/",
+    "buy": "SPNM https://www.spnm1.com/, QES Energy https://www.qes.co.th/, Lazada https://www.lazada.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 175,
+    "brand": "solis",
+    "model": "S5-GR3P20K(21A)",
+    "link": "https://www.ginlong.com/solis-s5-gr3p-series/",
+    "buy": "SPNM https://www.spnm1.com/, QES Energy https://www.qes.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 176,
+    "brand": "solis",
+    "model": "S6-GC3P30K03-NV-ND",
+    "link": "https://www.ginlong.com/solis-s6-gc3p-series/",
+    "buy": "SPNM https://www.spnm1.com/, QES Energy https://www.qes.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 177,
+    "brand": "solis",
+    "model": "S6-GC3P36K03-NV-ND",
+    "link": "https://www.ginlong.com/solis-s6-gc3p-series/",
+    "buy": "SPNM https://www.spnm1.com/, QES Energy https://www.qes.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 178,
+    "brand": "solis",
+    "model": "S5-GC40K",
+    "link": "https://www.ginlong.com/solis-s5-gc-series/",
+    "buy": "SPNM https://www.spnm1.com/, Lazada https://www.lazada.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 179,
+    "brand": "solis",
+    "model": "S6-GC3P40K04-NV-ND",
+    "link": "https://www.ginlong.com/solis-s6-gc3p-series/",
+    "buy": "SPNM https://www.spnm1.com/, QES Energy https://www.qes.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 180,
+    "brand": "solis",
+    "model": "S6-EH3P50K-H",
+    "link": "https://www.ginlong.com/solis-s6-eh3p-series/",
+    "buy": "SPNM https://www.spnm1.com/, QES Energy https://www.qes.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 181,
+    "brand": "solis",
+    "model": "S6-EH3P50K-H(21A)",
+    "link": "https://www.ginlong.com/solis-s6-eh3p-series/",
+    "buy": "SPNM https://www.spnm1.com/, QES Energy https://www.qes.co.th/",
+    "price": "฿55,500–฿62,500"
+  },
+  {
+    "row": 182,
+    "brand": "SUNGROW",
+    "model": "SG20RT",
+    "link": "https://www.sungrowpower.com/en/products/string-inverter/b-sg20rt",
+    "buy": "Solaris https://solaris.co.th/, Solar-Thailand https://solar-thailand.co.th/, Supersolarz https://www.supersolarz.com/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 183,
+    "brand": "SUNGROW",
+    "model": "SG20RT-P2",
+    "link": "https://www.sungrowpower.com/en/products/string-inverter/b-sg20rt-p2",
+    "buy": "Solaris https://solaris.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 184,
+    "brand": "SUNGROW",
+    "model": "SH25T",
+    "link": "https://www.sungrowpower.com/en/products/hybrid-inverter/sh-series",
+    "buy": "Solaris https://solaris.co.th/, Supersolarz https://www.supersolarz.com/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 185,
+    "brand": "SUNGROW",
+    "model": "SG36CX-P2",
+    "link": "https://www.sungrowpower.com/en/products/string-inverter/b-sg36-40-50cx-p2",
+    "buy": "Solaris https://solaris.co.th/, Supersolarz https://www.supersolarz.com/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 186,
+    "brand": "SUNGROW",
+    "model": "SG36KTL-M",
+    "link": "https://www.sungrowpower.com/en/products/string-inverter/sg36ktl-m",
+    "buy": "Solaris https://solaris.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 187,
+    "brand": "SUNGROW",
+    "model": "SC 50HV",
+    "link": "https://www.sungrowpower.com/en/products/string-inverter/sc-series",
+    "buy": "Solaris https://solaris.co.th/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 188,
+    "brand": "SUNGROW",
+    "model": "SG50CX",
+    "link": "https://www.sungrowpower.com/en/products/string-inverter/b-sg36-40-50cx-p2",
+    "buy": "Solaris https://solaris.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 189,
+    "brand": "SUNGROW",
+    "model": "SG50CX-P2",
+    "link": "https://www.sungrowpower.com/en/products/string-inverter/b-sg36-40-50cx-p2",
+    "buy": "Solaris https://solaris.co.th/, Solar-Thailand https://solar-thailand.co.th/",
+    "price": "฿63,800–฿135,000"
+  },
+  {
+    "row": 190,
+    "brand": "TBEA",
+    "model": "TS50KTL_PLUS",
+    "link": "https://www.tbea.com/product/",
+    "buy": "TBEA Official https://www.tbea.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 191,
+    "brand": "TCL",
+    "model": "BlueArk X5-50k-100",
+    "link": "https://digitalpower.tcl.com/products/blueArk-x5",
+    "buy": "TCL Digital Power https://digitalpower.tcl.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 192,
+    "brand": "Thai Tabuchi",
+    "model": "TPD-T250P6-TH",
+    "link": "N/A (Thai Tabuchi; Factory Bang Pakong, Chachoengsao; MEA/PEA approved)",
+    "buy": "Thai Tabuchi Electric; Bang Pakong Factory; Mercury Tower Bangkok",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 193,
+    "brand": "TMDA",
+    "model": "SUN-20K-G03",
+    "link": "https://www.facebook.com/TMDA-INVERTER-THAILAND/",
+    "buy": "TMDA Thailand; godungfaifaa.com; Shopee; Facebook TMDA INVERTER THAILAND",
+    "price": "~฿20,000–฿30,000"
+  },
+  {
+    "row": 194,
+    "brand": "TMDA",
+    "model": "SUN-30K-G03",
+    "link": "https://www.facebook.com/TMDA-INVERTER-THAILAND/",
+    "buy": "TMDA Thailand; godungfaifaa.com; Shopee; Facebook TMDA INVERTER THAILAND",
+    "price": "~฿25,000–฿40,000"
+  },
+  {
+    "row": 195,
+    "brand": "TMDA",
+    "model": "SUN-40K-G04",
+    "link": "https://www.facebook.com/TMDA-INVERTER-THAILAND/",
+    "buy": "TMDA Thailand; godungfaifaa.com; Shopee; Facebook TMDA INVERTER THAILAND",
+    "price": "~฿35,000–฿50,000"
+  },
+  {
+    "row": 196,
+    "brand": "TMDA",
+    "model": "SUN-50K-G03",
+    "link": "https://www.facebook.com/TMDA-INVERTER-THAILAND/",
+    "buy": "TMDA Thailand; godungfaifaa.com; Shopee; Facebook TMDA INVERTER THAILAND",
+    "price": "~฿45,000–฿60,000"
+  },
+  {
+    "row": 197,
+    "brand": "Trannergy",
+    "model": "TRM033KTL",
+    "link": "https://trannergy.com/",
+    "buy": "Trannergy Official; ENF Solar; solarsmart.ie",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 198,
+    "brand": "URECO",
+    "model": "IS050B1",
+    "link": "N/A (Thai brand; MEA/PEA registered; no official website)",
+    "buy": "URECO Thailand (B2B only)",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 199,
+    "brand": "V SOLAR",
+    "model": "VSOLAR 33K",
+    "link": "N/A (V SOLAR brand; MEA/PEA registered)",
+    "buy": "V SOLAR; MEA/PEA registered; Pakistani solar traders",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 200,
+    "brand": "VEICHI",
+    "model": "VHT-50K-100-H",
+    "link": "https://www.veichi.com/product/on-grid-solar-inverter/",
+    "buy": "VEICHI Electric Official https://www.veichi.com/",
+    "price": "N/A (B2B)"
+  },
+  {
+    "row": 201,
+    "brand": "ZONERGY",
+    "model": "Mars 50k",
+    "link": "https://www.zonergy.com/product/on-grid-inverter/",
+    "buy": "Zonergy Official https://www.zonergy.com/",
+    "price": "N/A (B2B)"
+  }
+]
